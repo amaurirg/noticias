@@ -1,0 +1,225 @@
+{
+    "Uol": "https://conteudo.imguol.com.br/c/home/layout/camaleao/web/logo.png",
+    "noticias": [
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/2b/2020/06/03/agente-funerario-caminha-em-cemiterio-do-rio-de-janeiro-durante-pandemia-do-coronavirus-1591226366846_v2_900x506.jpg",
+            "texto": "Covid-19: após confusão com números, Saúde promete divulgar dados às 18h",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/covid-19-apos-confusao-com-numeros-saude-promete-divulgar-dados-as-18h.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/df/2020/05/11/ilustracao-do-novo-coronavirus-criada-pelo-cdc-1589210774819_v2_900x506.jpg",
+            "texto": "Disseminação assintomática do coronavírus é 'muito rara', diz OMS",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/disseminacao-assintomatica-do-coronavirus-e-muito-rara-diz-oms.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/78/2020/06/08/6jun2020---o-prefeito-do-rio-de-janeiro-marcelo-crivella-republicanos-rj-em-coletiva-de-imprensa-sobre-a-flexibilizacao-da-quarentena-1591651285178_v2_900x506.jpg",
+            "texto": "Justiça do RJ suspende flexibilização autorizada na capital e no estado",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/justica-do-rio-suspende-flexibilizacao-autorizada-pela-prefeitura-e-estado.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/d3/2020/06/04/homem-trabalha-em-meio-as-sepulturas-do-cemiterio-nossa-senhora-aparecida-em-manaus-1591313049973_v2_900x506.jpg",
+            "texto": "Covid: Maquiagem do número de mortos serve de teste para o de desempregados",
+            "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/06/08/covid-maquiagem-do-numero-de-mortos-serve-de-teste-para-o-de-desempregados.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/6b/2020/06/08/08jun2020---datena-critica-amigos-de-bolsonaro-no-brasil-urgente-1591648261440_v2_900x506.jpg",
+            "texto": "Datena critica Trump, Olavo e Hang: \"Bolsonaro tem cada amigo, hein?\"",
+            "link": "https://tvefamosos.uol.com.br/noticias/redacao/2020/06/08/datena-critica-trump-olavo-e-hang-bolsonaro-tem-cada-amigo-hein.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/6d/2020/03/18/18mar2020---o-presidente-jair-bolsonaro-e-o-presidente-do-stf-dias-toffoli-participam-de-coletiva-sobre-o-coronavirus-1584576127820_v2_900x506.jpg",
+            "texto": "Atitudes \"dúbias\" de Bolsonaro \"assustam\" o mundo, diz Toffoli",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/coronavirus-atitudes-dubias-de-bolsonaro-assustam-o-mundo-diz-toffoli.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/51/2020/05/15/15mai2020---damares-alves-ministra-da-mulher-familia-e-direitos-humanos-durante-cerimonia-no-palacio-do-planalto-em-brasilia-1589576773452_v2_900x506.jpg",
+            "texto": "Ministério dos Direitos Humanos anula 295 anistias a ex-cabos da FAB",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/ministerio-dos-direitos-humanos-anula-295-anistias-a-ex-cabos-da-fab.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/a3/2020/06/08/jair-bolsonaro-cara-de-poucos-amigos-1591615278875_v2_900x506.jpg",
+            "texto": "STF prorroga inquérito por 30 dias e deve ouvir presidente Bolsonaro",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/stf-prorroga-inquerito-por-30-dias-e-deve-ouvir-presidente-bolsonaro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/6d/2020/03/18/18mar2020---o-presidente-jair-bolsonaro-e-o-presidente-do-stf-dias-toffoli-participam-de-coletiva-sobre-o-coronavirus-1584576127820_v2_900x506.jpg",
+            "texto": "Atitudes \"dúbias\" de Bolsonaro \"assustam\" o mundo, diz Toffoli",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/coronavirus-atitudes-dubias-de-bolsonaro-assustam-o-mundo-diz-toffoli.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/39/2020/05/29/tumulos-recem-escavados-no-cemiterio-sao-francisco-xavier-durante-o-surto-de-doenca-de-coronavirus-covid-19-no-rio-de-janeiro-1590803621765_v2_900x506.jpg",
+            "texto": "Ministério culpa RR por diferença em dados; BA também tem dados corrigidos",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/citado-em-erro-de-governo-roraima-aponta-tres-mortes-a-mais-que-ministerio.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/df/2020/05/11/ilustracao-do-novo-coronavirus-criada-pelo-cdc-1589210774819_v2_900x506.jpg",
+            "texto": "Disseminação assintomática do coronavírus é 'muito rara', diz OMS",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/disseminacao-assintomatica-do-coronavirus-e-muito-rara-diz-oms.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/1e/2020/06/08/luciano-hang-de-verde-e-amarelo-1591613315684_v2_450x600.jpg",
+            "texto": "Luciano Hang pede dinheiro para Olavo de Carvalho",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/luciano-hang-pede-dinheiro-para-olavo-de-carvalho.htm"
+        },
+        {
+            "img": null,
+            "texto": "Aras tem agido com 'prudência e parcimônia', diz Toffoli",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/aras-tem-agido-com-prudencia-e-parcimonia-diz-toffoli.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/aa/2020/06/01/o-policial-tentou-conversar-com-morador-de-alphaville-durante-ocorrencia-1591021965484_v2_900x506.jpg",
+            "texto": "MP denuncia por desacato empresário de SP que xingou PM de 'lixo' e 'bosta'",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/mp-denuncia-por-desacato-empresario-de-sp-que-xingou-pm-de-lixo-e-bosta.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/43/2020/06/08/homem-fura-isolamento-picha-muro-para-se-declarar-a-ex-namorada-e-e-preso-1591644093980_v2_900x506.jpg",
+            "texto": "Homem fura isolamento, picha muro para se declarar à ex-namorada e é preso",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/08/homem-fura-isolamento-picha-muro-para-se-declarar-a-ex-namorada-e-e-preso.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/dd/2020/06/03/joao-pedro-1591207364413_v2_450x600.jpg",
+            "texto": "Reconstituição do caso João Pedro é adiada",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/reconstituicao-do-caso-joao-pedro-e-adiada.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/ff/2019/04/25/25abr2019---ex-vice-presidente-joe-biden-anuncia-sua-pre-candidatura-a-campanha-presidencial-de-2020-pelo-partido-democrata-1556192452275_v2_450x600.jpg",
+            "texto": "Joe Biden se reúne com a família de George Floyd após funeral, em Houston",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/08/joe-biden-se-reune-com-a-familia-de-george-floyd-apos-funeral-em-houston.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/f6/2017/06/22/arca-do-tesouro-caca-ao-tesouro-bau-com-tesouro-ouro-indoor-joias-ilustrativa-1498142299380_450x450.jpg",
+            "texto": "Após busca de 10 anos e até mortes, tesouro de R$ 4,8 milhões é encontrado",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/08/apos-busca-de-10-anos-e-ate-mortes-tesouro-de-r-48-milhoes-e-encontrado.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/48/2020/06/08/08jun2020---christophe-castaner-ministro-do-interior-da-franca-1591645231304_v2_900x506.jpg",
+            "texto": "França proíbe polícia de usar estrangulamento como técnica de detenção",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/08/franca-proibe-policia-de-usar-estrangulamento-como-tecnica-de-detencao.htm"
+        },
+        {
+            "img": null,
+            "texto": "STF decidirá sobre divulgação de dados da covid-19 diariamente até as 19h30 A Rede Sustentabilidade, o Partido Comunista do Brasil (PCdoB) e o Partido Socialismo e Liberdade (PSOL)...",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/stf-decidira-sobre-divulgacao-de-dados-da-covid-19-diariamente-ate-as-19h30.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/32/2020/06/05/sergio-hacker-corte-real-e-prefeito-de-tamandare-pe-1591383512291_v2_900x506.jpg",
+            "texto": "TCE faz ação em PE após empregada de prefeito constar como funcionária",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/tse-prefeitura-tamandare-caso-miguel.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/e1/2020/06/08/o-secretario-de-seguranca-publica-de-goias-rodney-miranda-que-pediu-afastamento-do-cargo-1591640962859_v2_450x600.png",
+            "texto": "Investigado, secretário de Segurança Pública de Goiás pede afastamento",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/investigado-secretario-de-seguranca-publica-de-go-pede-afastamento.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/45/2019/04/04/douglas-garcia-deputado-estadual-durante-cerimonia-de-diplomacao-na-assembleia-legislativa-1554406165351_v2_900x506.jpg",
+            "texto": "Promotoria abre inquérito contra Douglas Garcia por dossiê sobre antifascistas",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/promotoria-abre-inquerito-contra-douglas-garcia-por-dossie-sobre-antifascistas.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/55/2020/03/06/rubem-novaes-presidente-do-banco-do-brasil-1583530822125_v2_900x506.jpg",
+            "texto": "Presidente do Banco do Brasil defende que órgão seja privatizado",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/08/presidente-do-banco-do-brasil-defende-que-orgao-seja-privatizado.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/a2/2020/06/08/1mar2020---o-presidente-da-argentina-alberto-fernandez-durante-sessao-de-abertura-do-ano-legislativo-no-pais-1591648474008_v2_900x506.jpg",
+            "texto": "Argentina quer imposto sobre grandes fortunas para fortalecer área da saúde e mais pobres",
+            "link": "https://economia.uol.com.br/noticias/bbc/2020/06/08/argentina-quer-imposto-sobre-grandes-fortunas-para-fortalecer-area-da-saude-e-mais-pobres.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/7a/2020/05/22/27abr2020---o-secretario-executivo-do-ministerio-da-saude-general-eduardo-pazuello-em-coletiva-do-ministerio-da-saude-1590148314382_450x450.png",
+            "texto": "Restrição a dados sobre covid afasta investidor do Brasil, dizem analistas",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/08/maquiagem-de-dados-atrapalha-atracao-de-investimento-para-brasil.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/57/2020/06/05/operadores-na-bolsa-de-valores-de-nova-york-eua-1591374965401_v2_300x225.jpg",
+            "texto": "Nasdaq bate recorde e confirma mercado de alta com esperanças de recuperação econômica",
+            "link": "https://economia.uol.com.br/noticias/reuters/2020/06/08/nasdaq-bate-recorde-e-confirma-mercado-de-alta-com-esperancas-de-recuperacao-economica.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/5b/2020/04/22/corpo-e-carregado-durante-epidemia-de-gripe-espanhola-nos-estados-unidos-em-1918-1587602486585_v2_300x225.jpg",
+            "texto": "Coronavírus Ao matar mais de 35 mil, covid é mais letal que gripe espanhola no Brasil",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/ao-superar-35-mil-mortes-covid-19-se-torna-mais-letal-que-gripe-espanhola-no-brasil/index.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/1f/2020/03/24/internet-out-sao-paulo-sp-brasil-24-03-2020-coronavirus-governo-de-sao-paulo-decreta-fechamento-total-de-servicos-nao-essenciaisrua-barao-de-itapetiningafoto-reinaldo-canato--uol--1585076830061_v2_300x225.jpg",
+            "texto": "O epicentro somos nós Brasil supera EUA e é o país com mais óbitos pela doença em um dia",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/coronavirus-brasil-supera-os-eua-em-novas-mortes-diarias/index.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/77/2020/05/29/foto-aerea-do-masp-museu-de-arte-de-sao-paulo-na-avenida-paulista-durante-a-pandemia-de-coronavirus-1590794714944_v2_300x225.jpg",
+            "texto": "DE 1 A 101 MIL SP: Do 1º caso brasileiro de covid-19 à reabertura",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/sp-do-1-caso-de-covid-19-brasileiro-a-reabertura/index.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/tab/33/2020/05/02/uti-e-covid-19-1588452667685_v2_900x506.jpg",
+            "texto": "Hospitais não estão 'provocando a morte' de pacientes",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/05/hospitais-nao-estao-provocando-a-morte-de-pacientes.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/4d/2016/07/28/midia-indoor-wap-tv-celular-farmacia-drogaria-remedio-medicamento-prateleira-compra-doente-doenca-paciente-bula-medicacao-medico-receita-saude-automedicacao-generico-1469698852689_900x506.jpg",
+            "texto": "Post distorce dados sobre protocolos para uso de remédios contra covid",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/05/post-distorce-dados-sobre-protocolos-para-uso-de-remedios-contra-covid.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/75/2020/05/08/remedio-1588943272490_v2_900x506.jpg",
+            "texto": "Não há prova de que ivermectina cure covid, ao contrário do que diz médica",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/05/nao-ha-prova-de-que-ivermectina-cure-covid-ao-contrario-do-que-diz-medica.htm"
+        },
+        {
+            "img": null,
+            "texto": "STF decidirá sobre divulgação de dados da covid-19 diariamente até as 19h30 A Rede Sustentabilidade, o Partido Comunista do Brasil (PCdoB) e o Partido Socialismo e Liberdade (PSOL)... 08/06/2020 18h35",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/stf-decidira-sobre-divulgacao-de-dados-da-covid-19-diariamente-ate-as-19h30.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/2b/2020/06/03/agente-funerario-caminha-em-cemiterio-do-rio-de-janeiro-durante-pandemia-do-coronavirus-1591226366846_v2_900x506.jpg",
+            "texto": "Covid-19: após confusão com números, Saúde promete divulgar dados às 18h 08/06/2020 18h31",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/covid-19-apos-confusao-com-numeros-saude-promete-divulgar-dados-as-18h.htm"
+        },
+        {
+            "img": null,
+            "texto": "Ao vivo: Ministério da Saúde esclarece divulgação de dados da covid-19 Neste momento, representantes do Ministério da Saúde participam de transmissão ao vivo no Palácio do Planalto para  08/06/2020 18h25",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/08/ao-vivo-ministerio-da-saude-esclarece-divulgacao-de-dados-da-covid-19.htm"
+        },
+        {
+            "img": null,
+            "texto": "Veja como checar e denunciar fraudes no auxílio emergencial de R$ 600 A CGU (Controladoria-Geral da União) identificou mais de 160 mil possíveis irregularidades no pagamento do auxílio  08/06/2020 18h23",
+            "link": "https://www1.folha.uol.com.br/mercado/2020/06/veja-como-checar-e-denunciar-fraudes-no-auxilio-emergencial-de-r-600.shtml"
+        },
+        {
+            "img": null,
+            "texto": "Veja como checar e denunciar fraudes no auxílio emergencial de R$ 600 08/06/2020 18h23",
+            "link": "https://www1.folha.uol.com.br/mercado/2020/06/veja-como-checar-e-denunciar-fraudes-no-auxilio-emergencial-de-r-600.shtml"
+        },
+        {
+            "img": null,
+            "texto": "Wall Street fecha em alta com recorde do Nasdaq Nova York, 8 Jun 2020 (AFP) - A Bolsa de Nova York, incentivada pela reabertura progressiva da economia nos... 08/06/2020 18h23",
+            "link": "https://economia.uol.com.br/noticias/afp/2020/06/08/wall-street-fecha-em-alta-com-recorde-do-nasdaq.htm"
+        },
+        {
+            "img": null,
+            "texto": "Wall Street fecha em alta com alta do Nasdaq Nova York, 8 Jun 2020 (AFP) - A Bolsa de Nova York, incentivada pela reabertura progressiva da economia nos... 08/06/2020 18h22",
+            "link": "https://economia.uol.com.br/noticias/afp/2020/06/08/wall-street-fecha-em-alta-com-alta-do-nasdaq.htm"
+        },
+        {
+            "img": null,
+            "texto": "Inea instalará ecobarreiras em lagoas no Rio de Janeiro O  Instituto Estadual do Ambiente (Inea) vai instalar, até o final de julho, quatro ecobarreiras nas lagoas da... 08/06/2020 18h21",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/08/inea-instalara-ecobarreiras-em-lagoas-no-rio-de-janeiro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/parceiros/87/2020/06/08/eua-obrigam-rede-de-hoteis-marriott-a-deixar-de-operar-em-cuba-1591642545110_v2_142x100.jpg",
+            "texto": "EUA obrigam rede de hotéis Marriott a deixar de operar em Cuba 08/06/2020 18h20",
+            "link": "https://operamundi.uol.com.br/politica-e-economia/65105/eua-obrigam-rede-de-hoteis-marriott-a-deixar-de-operar-em-cuba"
+        },
+        {
+            "img": null,
+            "texto": "Dar garantia a crédito é mais eficaz do que subsidiar juros, diz presidente do BNDES O presidente do BNDES (Banco Nacional de Desenvolvimento Econômico e Social), Gustavo Montezano, afirmou nesta... 08/06/2020 18h16",
+            "link": "https://www1.folha.uol.com.br/mercado/2020/06/dar-garantia-a-credito-e-mais-eficaz-do-que-subsidiar-juros-diz-presidente-do-bndes.shtml"
+        },
+        {
+            "img": null,
+            "texto": "Dar garantia a crédito é mais eficaz do que subsidiar juros, diz presidente do BNDES 08/06/2020 18h16",
+            "link": "https://www1.folha.uol.com.br/mercado/2020/06/dar-garantia-a-credito-e-mais-eficaz-do-que-subsidiar-juros-diz-presidente-do-bndes.shtml"
+        }
+    ]
+}
