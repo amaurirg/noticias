@@ -1,130 +1,122 @@
 {
-    "Uol": "https://conteudo.imguol.com.br/c/home/layout/camaleao/web/logo.png",
+    "imprensa": "Uol",
+    "logo": "https://conteudo.imguol.com.br/c/home/layout/camaleao/web/logo.png",
+    "atualizado_em": "19/06/2020 01:10:50",
     "noticias": [
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/e8/2020/06/11/11jun2020---aglomeracao-no-norteshopping-1591895793686_v2_900x506.jpg",
-            "texto": "RJ: com fila para reabertura, shopping tem aglomerações e medição de febre",
-            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/11/com-fila-shopping-no-rio-antecipa-abertura-e-tem-aglomeracoes-em-lojas.htm"
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/9e/2020/06/01/hospital-medicos-1591044205755_v2_450x450.jpg",
+            "texto": "Tribunal de Contas identifica sobrepreço em contratos médicos no RJ",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/18/tribunal-de-contas-identifica-sobrepreco-em-contratos-medicos-no-rj.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/68/2020/06/11/11062020---bebidas-apreendidas-em-festa-clandestina-em-sorocaba-1591893533072_v2_900x506.jpg",
-            "texto": "SP: Polícia encerra festa clandestina com cerca de mil pessoas em Sorocaba",
-            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/11/sp-policia-encerra-festa-clandestina-com-cerca-de-mil-pessoas-em-sorocaba.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/hospital-de-campanha-de-sao-goncalo-1592518674229_v2_900x506.jpg",
+            "texto": "RJ: Hospital de Campanha de São Gonçalo é inaugurado com atraso",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/18/rj-hospital-de-campanha-de-sao-goncalo-e-inaugurado-com-atraso.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/8f/2020/06/02/28mai2020---cientista-em-hospital-em-atlacomulco-no-mexico-segura-amostras-de-sangue-de-pacientes-suspeitos-de-infeccao-pelo-novo-coronavirus-1591106775816_v2_900x506.jpg",
-            "texto": "México bate recorde de novos casos de coronavírus em 24 horas",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/11/mexico-bate-recorde-de-novos-casos-de-covid-19-em-24-horas.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/19/2020/06/04/testes-de-coronavirus-em-frente-a-bandeira-do-brasil-1591309207282_v2_450x600.jpg",
+            "texto": "Saúde diz que Brasil está \"a caminho da estabilização\" de casos de covid-19",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/18/saude-diz-que-brasil-esta-a-caminho-da-estabilizacao-de-casos-de-covid-19.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/98/2020/06/11/membros-da-universidade-de-tecnologia-de-tshwane-na-africa-do-sul-produzem-alcool-em-gel-para-a-populacao-1591893644042_v2_900x506.jpg",
-            "texto": "OMS alerta que pandemia do coronavírus está em ritmo acelerado na África",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/11/oms-alerta-que-a-pandemia-esta-se-acelerando-na-africa.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/38/2020/05/26/26mai2020---sepultamento-de-vitima-de-coronavirus-no-cemiterio-sao-francisco-xavierem-caju-zona-norte-do-rio-de-janeiro-1590538285028_v2_900x506.jpg",
+            "texto": "Brasil supera 1.200 novas mortes pelo 3º dia; total é 47.869, diz consórcio",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/18/coronavirus-covid-mortes-casos-18-junho.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/entretenimento/a2/2018/09/18/fabio-faria-deputado-federal-e-candidato-a-reeleicao-e-casado-com-patricia-abravanel-1537304672052_v2_450x600.jpg",
-            "texto": "Bolsonaro vê em Fábio Faria ponte com Congresso e mídia tradicional",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/genro-de-silvio-santos-fabio-faria-contempla-centrao-e-espaco-com-midia.htm"
+            "img": "https://conteudo.imguol.com.br/c/esporte/76/2020/05/19/presidentes-de-vasco-alexandre-campello-e-flamengo-rodolfo-landim-com-o-presidente-jair-bolsonaro-e-um-de-seus-filhos-o-senador-flavio-bolsonaro-1589921406935_v2_900x506.jpg",
+            "texto": "Bolsonaro diz que MP sobre direitos de TV acaba com conflitos no futebol",
+            "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2020/06/18/bolsonaro-diz-que-mp-sobre-direitos-de-tv-acaba-com-conflitos-no-futebol.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/d4/2020/03/25/testes-para-a-doenca-covid-19-causada-pelo-novo-coronavirus-1585177849566_v2_900x506.jpg",
-            "texto": "Coronavírus: Últimas notícias e o que sabemos até esta quinta-feira (11)",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/11/coronavirus-ultimas-noticias-e-o-que-sabemos-ate-esta-quinta-feira-11.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/a4/2020/02/27/jair-bolsonaro-acompanhado-dos-filhos-flavio-eduardo-e-carlos-1582792891395_v2_900x506.jpg",
+            "texto": "Clã Bolsonaro é alvo de investigações no STF, MP-RJ, Câmara e Senado",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/cla-bolsonaro-e-investigado-no-stf-justica-do-rj-e-no-congresso.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/c1/2020/05/22/sergio-moro-concede-entrevista-em-brasilia-em-marco-de-2020-1590191757652_v2_900x506.jpg",
-            "texto": "Moro questiona a recriação de ministério: \"Quais serão os próximos?\"",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/moro-questiona-recriacao-de-ministerio-quais-serao-os-proximos.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/presidente-jair-bolsonaro-no-palacio-do-planalto-1592510597170_v2_900x506.jpg",
+            "texto": "Bolsonaro cita dificuldade em estender auxílio: \"Endividamento está enorme\"",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/bolsonaro-auxilio-emergencial.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/ea/2020/05/07/6mai2020---a-secretaria-especial-de-cultura-regina-duarte-em-reuniao-com-o-ministro-do-turismo-marcelo-alvaro-antonio-1588901407469_v2_900x506.jpg",
-            "texto": "Regina Duarte diz que viveu dor e êxtase no governo e cita dificuldades",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/em-video-regina-duarte-diz-que-teve-momentos-de-dor-e-extase-no-governo.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/b6/2020/06/18/jair-bolsonaro-e-abraham-weintraub-1592512474183_v2_900x506.png",
+            "texto": "Saída de Weintraub da Educação gera chuva de memes nas redes",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/saida-de-weintraub-da-educacao-memes.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/32/2020/04/21/moro-discursa-em-casamento-de-carla-zambelli-1587459080326_v2_900x506.jpg",
-            "texto": "Moro diz que aceitou ser padrinho de Carla Zambelli por \"constrangimento\"",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/moro-zambelli-constrangimento.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/02/2020/06/18/heloisa-de-carvalho-filha-de-olavo-de-carvalho-posou-em-frente-a-casa-onde-queiroz-foi-encontrado-para-celebrar-a-prisao-do-ex-assessor-1592516762606_v2_450x450.jpg",
+            "texto": "Filha de Olavo vai à casa onde Queiroz foi encontrado: 'Sabia desde 2019'",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/filha-de-olavo-de-carvalho-posa-em-frente-a-casa-onde-queiroz-foi-achado.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/27/2020/06/11/homem-desfaz-homenagem-a-mortos-pela-covid-1591887914217_v2_450x600.jpg",
-            "texto": "Homem desfaz homenagem a mortos da covid-19. Pai que perdeu filho reage",
-            "link": "https://noticias.uol.com.br/colunas/chico-alves/2020/06/11/homem-desfaz-homenagem-a-mortos-da-covid-19-pai-que-perdeu-filho-reage.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/presidente-jair-bolsonaro-no-palacio-do-planalto-1592510597170_v2_450x600.jpg",
+            "texto": "Foi uma 'prisão espetaculosa' e Queiroz não estava foragido, diz Bolsonaro",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/foi-feita-prisao-espetaculosa-diz-bolsonaro-sobre-fabricio-queiroz.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/parceiros/52/2020/04/16/silvio-santos-e-jair-bolsonaro-divulgacao--sbt-1587066201431_v2_900x506.jpg",
-            "texto": "Silvio, Kassab, Centrão: Bolsonaro acerta três coelhos com novo ministério",
-            "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/06/11/silvio-kassab-centrao-bolsonaro-acerta-tres-coelhos-com-novo-ministerio.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/86/2020/06/18/18jun2020---fabricio-queiroz-ex-assessor-de-flavio-bolsonaro-desembarca-de-helicoptero-no-rio-de-janeiro-acompanhado-de-policiais-apos-ser-preso-em-atibaia-sp-1592494161201_v2_900x506.jpg",
+            "texto": "\"Qual o motivo da prisão?\", questionou Queiroz em conversa com advogado",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/qual-o-motivo-da-prisao-questionou-queiroz-em-conversa-com-advogado.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/18/2020/06/10/fachada-da-1-deatur-divisao-especializada-de-atendimento-ao-turista-no-centro-de-sao-paulo-1591829071343_v2_900x506.jpg",
-            "texto": "Policial civil negro é abordado e agredido por PM enquanto levava suspeitos",
-            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/10/policial-civil-e-abordado-e-agredido-por-pm-enquanto-conduzia-suspeito-a-dp.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/12/2019/03/12/dinheiro-real-salario-minimo-reais-notas-1552409006787_v2_450x600.jpg",
+            "texto": "Quina acumula e edição de São João terá prêmio estimado em R$ 140 milhões",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/2020/06/18/quina-5298-resultado-do-sorteio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/e8/2020/06/11/11jun2020---aglomeracao-no-norteshopping-1591895793686_v2_900x506.jpg",
-            "texto": "RJ: com fila para reabertura, shopping tem aglomerações e medição de febre",
-            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/11/com-fila-shopping-no-rio-antecipa-abertura-e-tem-aglomeracoes-em-lojas.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/12/2020/06/18/presidente-dos-eua-donald-trump-1592492588744_v2_900x506.jpg",
+            "texto": "Twitter coloca selo de 'mídia manipulada' em vídeo postado por Trump",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/18/twitter-coloca-selo-de-midia-manipulada-em-video-postado-por-trump.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/68/2020/06/11/11062020---bebidas-apreendidas-em-festa-clandestina-em-sorocaba-1591893533072_v2_900x506.jpg",
-            "texto": "SP: Polícia encerra festa clandestina com cerca de mil pessoas em Sorocaba",
-            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/11/sp-policia-encerra-festa-clandestina-com-cerca-de-mil-pessoas-em-sorocaba.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/4a/2020/06/12/presidente-dos-eua-donald-trump-em-dallas-1591967749741_v2_900x506.jpg",
+            "texto": "Trump sob ataque de várias frentes a cinco meses da eleição presidencial",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/18/trump-sob-ataque-de-varias-frentes-a-cinco-meses-da-eleicao-presidencial.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/5d/2020/06/08/presidente-dos-eua-donald-trump-1591645097971_v2_900x506.jpg",
-            "texto": "Donald Trump agradece apoio de um dos maiores adversários do papa Francisco",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/11/trump-agradece-no-twitter-o-apoio-de-um-dos-maiores-adversarios-do-papa.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/25/2020/06/18/soldados-chines-e-indiano-em-um-dos-pontos-da-fronteira-1592517174737_v2_900x506.jpg",
+            "texto": "China x Índia: o que é a Linha de Controle Real, pela qual as duas potências asiáticas brigam há décadas",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/bbc/2020/06/18/china-x-india-o-que-e-a-linha-de-controle-real-pela-qual-as-duas-potencias-brigam-ha-decadas.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/8f/2020/06/02/28mai2020---cientista-em-hospital-em-atlacomulco-no-mexico-segura-amostras-de-sangue-de-pacientes-suspeitos-de-infeccao-pelo-novo-coronavirus-1591106775816_v2_900x506.jpg",
-            "texto": "México bate recorde de novos casos de coronavírus em 24 horas",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/11/mexico-bate-recorde-de-novos-casos-de-covid-19-em-24-horas.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/26/2020/06/15/sara-winter-segurando-dois-revolveres-1592224753825_v2_450x450.jpg",
+            "texto": "Ministra Cármen Lúcia rejeita habeas corpus e Sara Winter segue presa",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/ministra-carmen-lucia-rejeita-habeas-da-ativista-sara-winter.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/a4/2020/01/15/secretario-do-tesouro-dos-estados-unidos-steven-mnuchin-1579096026116_v2_450x450.jpg",
-            "texto": "EUA não fechará sua economia se houver segunda onda de covid-19, diz secretário do Tesouro",
-            "link": "https://economia.uol.com.br/noticias/afp/2020/06/11/eua-nao-fechara-sua-economia-se-houver-segunda-onda-de-covid-19-diz-secretario-do-tesouro.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/e5/2020/05/18/senador-flavio-bolsonaro-1589845554434_v2_450x450.jpg",
+            "texto": "Assessora de Flávio Bolsonaro se mudou 15 dias antes de operação, diz tio",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/assessora-de-flavio-bolsonaro-se-mudou-15-dias-antes-de-operacao-diz-tio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/cc/2020/06/11/09jun2020---cinthia-ribeiro-prefeita-de-palmas-to-recebe-lideres-religiosos-em-seu-gabinete-1591881045692_v2_900x506.jpg",
-            "texto": "Palmas revoga decreto que criou comitê cristão para consulta de projetos",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/prefeita-de-palmas-decreto-igrejas-politicas-publicas.htm"
+            "img": "https://conteudo.imguol.com.br/c/galeria/7c/2020/06/18/18jun2020---fabricio-queiroz-de-bone-ex-assessor-de-flavio-bolsonaro-chega-ao-iml-instituto-medico-legal-em-sao-paulo-apos-ser-preso-em-atibaia-66-km-da-capital-1592484050534_v2_300x225.jpg",
+            "texto": "De Atibaia a Bangu: o que se sabe da operação que prendeu Fabrício Queiroz",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/de-atibaia-a-bangu-o-que-se-sabe-da-operacao-que-prendeu-fabricio-queiroz.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/99/2020/05/28/ministro-da-educacao-abraham-weintraub-na-camara-dos-deputados-1590662762301_v2_900x506.jpg",
-            "texto": "Parlamentares denunciam ao STF MP que permite a Weintraub escolher reitores",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/parlamentares-denunciam-ao-stf-mp-que-permite-a-weintraub-escolher-reitores.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/a4/2020/02/27/jair-bolsonaro-acompanhado-dos-filhos-flavio-eduardo-e-carlos-1582792891395_v2_900x506.jpg",
+            "texto": "Clã Bolsonaro é alvo de investigações no STF, MP-RJ, Câmara e Senado",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/cla-bolsonaro-e-investigado-no-stf-justica-do-rj-e-no-congresso.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/entretenimento/a2/2018/09/18/fabio-faria-deputado-federal-e-candidato-a-reeleicao-e-casado-com-patricia-abravanel-1537304672052_v2_450x600.jpg",
-            "texto": "Bolsonaro vê em Fábio Faria ponte com Congresso e mídia tradicional",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/genro-de-silvio-santos-fabio-faria-contempla-centrao-e-espaco-com-midia.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/15/auxilio-emergencial-caixa-1592245724022_v2_900x506.jpg",
+            "texto": "Auxílio emergencial: CGU identifica 317 mil pagamentos a servidores em maio",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/cgu-identifica-mais-de-317-mil-pagamentos-do-auxilio-a-servidores-em-maio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/32/2020/04/21/moro-discursa-em-casamento-de-carla-zambelli-1587459080326_v2_900x506.jpg",
-            "texto": "Moro diz que aceitou ser padrinho de Carla Zambelli por \"constrangimento\"",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/moro-zambelli-constrangimento.htm"
+            "img": "https://conteudo.imguol.com.br/67/2020/05/18/dinheiro-moeda-real-1589822622769_450x450.jpg",
+            "texto": "Senado aprova suspensão de parcelas de empréstimo consignado",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/senado-aprova-suspensao-de-parcelas-de-emprestimo-consignado.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/69/2019/07/18/07jul2019---o-empresario-eike-batista-durante-evento-empreende-brasil-1563482972009_v2_450x600.jpg",
-            "texto": "Eike Batista é condenado a 8 anos de prisão por manipulação do mercado financeiro",
-            "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2020/06/11/eike-batista-e-condenado-a-8-anos-de-prisao-por-manipulacao-do-mercado-financeiro.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/ec/2020/01/20/fachada-do-bndes-no-rio-de-janeiro-1579565305356_v2_900x506.jpg",
+            "texto": "Garantia de crédito do BNDES para pequena empresa deve entrar em operação em julho",
+            "link": "https://economia.uol.com.br/noticias/reuters/2020/06/18/garantia-de-credito-do-bndes-para-pequena-empresa-deve-entrar-em-operacao-em-julho.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/0d/2020/05/15/carteira-de-trabalho-1589554218927_v2_450x600.jpg",
-            "texto": "Redução de jornada e salário poderá ter prazo ampliado em mais 60 dias",
-            "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2020/06/11/reducao-de-jornada-e-salario-podera-ter-prazo-ampliado-em-mais-60-dias.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/10/2020/06/11/dolar-coronavirus-1591889080389_v2_900x506.jpg",
-            "texto": "FMI afirma que US$10 trilhões foram gastos contra pandemia, mas é preciso mais",
-            "link": "https://economia.uol.com.br/noticias/reuters/2020/06/11/fmi-afirma-que-us10-trilhoes-foram-gastos-contra-pandemia-mas-e-preciso-mais.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/30/2020/01/22/notas-de-dolar-1579696044624_v2_450x450.jpg",
-            "texto": "Pedidos de auxílio-desemprego nos EUA caem, mas milhões seguem desempregados",
-            "link": "https://economia.uol.com.br/noticias/reuters/2020/06/11/pedidos-de-auxilio-desemprego-nos-eua-caem-mas-milhoes-seguem-desempregados.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/6d/2020/05/25/o-ministro-da-educacao-abraham-weintraub-1590445460162_v2_900x506.jpg",
+            "texto": "Governo brasileiro oficializa indicação de Weintraub para o Banco Mundial",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/governo-brasileiro-oficializa-indicacao-de-weintraub-para-o-banco-mundial.htm"
         },
         {
             "img": "https://conteudo.imguol.com.br/c/noticias/4f/2020/06/05/5jun2020---medica-ticyana-azambuja-fala-na-janela-do-seu-apartamento-sobre-as-agressoes-sofridas-por-frequentadores-de-uma-festa-clandestina-no-grajau-zona-norte-do-rio-de-janeiro-1591398930443_v2_300x225.jpg",
@@ -142,39 +134,29 @@
             "link": "https://noticias.uol.com.br/reportagens-especiais/coronavirus-brasil-supera-os-eua-em-novas-mortes-diarias/index.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/82/2019/11/08/8nov2019---logotipo-comprova-1573234930891_v2_900x506.png",
-            "texto": "Projeto Comprova entra na terceira fase com 28 veículos de comunicação",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/redacao/2020/06/10/projeto-comprova-contra-noticias-falsas-entra-na-3-fase-com-28-veiculos.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/60/2020/06/17/comprova-post-associa-tabela-a-cdc-mas-nenhuma-das-informacoes-que-aparece-na-tabela-esta-no-texto-publicado-pelo-orgao-de-saude-norte-americano-1592438025852_v2_900x506.jpg",
+            "texto": "EUA: Tabela com risco de transmissão de covid não foi divulgada por governo",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/17/eua-tabela-com-risco-de-transmissao-de-covid-nao-foi-divulgada-por-governo.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/fb/2020/06/10/27052020---protesto-organizado-pela-new-florida-majority-newfm-representa-funeral-simbolico-de-vitimas-de-covid-19-em-miami-florida-nos-estados-unidos-1591806238466_v2_900x506.jpg",
-            "texto": "Imagem mostra boneco em protesto, e não corpo carregado só por uma mão",
-            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/10/imagem-mostra-boneco-em-protesto-e-nao-corpo-carregado-so-por-uma-mao.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/a0/2020/06/17/comprova-video-distorce-declaracoes-do-governador-de-sao-paulo-joao-doria-em-entrevista-1592421471744_v2_900x506.jpg",
+            "texto": "Parceria para vacina contra covid não foi firmada por Doria no ano passado",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/17/parceria-para-vacina-contra-covid-nao-foi-firmada-por-doria-no-ano-passado.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/1f/2020/05/25/imagem-de-medicacao-a-base-de-hidroxicloroquina-1590442611018_v2_900x506.jpg",
-            "texto": "Protocolo de uso da cloroquina não aumentou pacientes recuperados no Brasil",
-            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/08/protocolo-de-uso-da-cloroquina-nao-aumentou-pacientes-recuperados-no-brasil.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/42/2020/06/15/turista-usa-mascara-de-protecao-contra-o-coronavirus-no-aeroporto-internacional-de-los-angeles-nos-estados-unidos-1592262388036_v2_900x506.jpg",
+            "texto": "Os 70 dias do Comprova na checagem de informações duvidosas sobre covid-19",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/16/os-70-dias-do-comprova-na-checagem-de-informacoes-duvidosas-sobre-a-covid.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/parceiros/80/2020/05/11/o-presidente-da-repuacuteblica-jair-bolsonaro-sem-partido-e-o-ex-ministro-da-justiccedila-e-seguranccedila-puacuteblica-sergio-moro-1589198151065_v2_900x506.jpg",
-            "texto": "'Recriado o Ministério da Propaganda', ironiza Moro 11/06/2020 14h52",
-            "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2020/06/11/recriado-o-ministerio-da-propaganda-ironiza-moro.htm"
+            "img": "https://conteudo.imguol.com.br/c/blogs/f6/2020/06/18/weintraub-1592535396470_v2_956x500.jpg",
+            "texto": "Weintraub era o maior símbolo do desgoverno Bolsonaro 18/06/2020 23h53",
+            "link": "http://entendendobolsonaro.blogosfera.uol.com.br/2020/06/18/weintraub-era-o-maior-simbolo-do-desgoverno-bolsonaro/"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/parceiros/a3/2020/06/11/uniao-europeia-publica-nova-orientacao-sobre-abertura-de-fronteiras-1591889147169_v2_142x100.jpg",
-            "texto": "União Europeia publica nova orientação sobre abertura de fronteiras 11/06/2020 14h44",
-            "link": "https://operamundi.uol.com.br/coronavirus/65162/uniao-europeia-publica-nova-orientacao-sobre-abertura-de-fronteiras"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/69/2019/07/18/07jul2019---o-empresario-eike-batista-durante-evento-empreende-brasil-1563482972009_v2_450x600.jpg",
-            "texto": "Eike Batista é condenado a 8 anos de prisão por manipulação do mercado financeiro 11/06/2020 14h42",
-            "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2020/06/11/eike-batista-e-condenado-a-8-anos-de-prisao-por-manipulacao-do-mercado-financeiro.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/cc/2020/06/11/09jun2020---cinthia-ribeiro-prefeita-de-palmas-to-recebe-lideres-religiosos-em-seu-gabinete-1591881045692_v2_900x506.jpg",
-            "texto": "Palmas revoga decreto que criou comitê cristão para consulta de projetos 11/06/2020 14h41",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/11/prefeita-de-palmas-decreto-igrejas-politicas-publicas.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/12/2020/06/18/presidente-dos-eua-donald-trump-1592492588744_v2_900x506.jpg",
+            "texto": "Twitter coloca selo de 'mídia manipulada' em vídeo postado por Trump 18/06/2020 23h52",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/18/twitter-coloca-selo-de-midia-manipulada-em-video-postado-por-trump.htm"
         }
     ]
 }

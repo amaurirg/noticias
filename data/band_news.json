@@ -1,44 +1,57 @@
 {
-    "Band News": [
+    "imprensa": "Band News",
+    "logo": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/logotipo-bandnewsfm_15anos.png",
+    "atualizado_em": "19/06/2020 01:10:51",
+    "noticias": [
         {
-            "texto": "Cursos online podem capacitar o trabalhador para o novo cenário atual",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/cursos-online-podem-capacitar-o-trabalhador-para-o-novo-cenario-atual/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/03/REINALDO.jpg",
+            "texto": "Reinaldo Azevedo classifica que a passagem de Abraham Weintraub pelo Ministério da Educação é quase nula, sem apresentar qualquer legado em sua despedida",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/reinaldo-azevedo-classifica-que-a-passagem-de-abraham-weintraub-pelo-ministerio-da-educacao-e-quase-nula-sem-apresentar-qualquer-legado-em-sua-despedida/"
         },
         {
-            "texto": "Correiros apresentam problemas na entrega de produtos durante a pandemia de Coronavírus",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/correiros-apresentam-problemas-na-entrega-de-produtos-durante-a-pandemia-de-coronavirus/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/toffoli.jpg",
+            "texto": "Por 10 votos a 1, o Supremo Tribunal Federal decide manter o inquérito das fake news",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/por-10-votos-a-1-o-supremo-tribunal-federal-decide-manter-o-inquerito-das-fake-news/"
         },
         {
-            "texto": "Butantan vai produzir e testar vacinas contra o coronavírus em parceria com laboratório chinês",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/butantan-vai-produzir-e-testar-vacinas-contra-o-coronavirus-em-parceria-com-laboratorio-chines/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/5658_6CB5A4A43AB318D2.jpg",
+            "texto": "Ministério da Saúde contabiliza 1.238 novas mortes causadas pelo coronavírus em todo o País",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/ministerio-da-saude-contabiliza-1-238-novas-mortes-causadas-pelo-coronavirus-em-todo-o-pais/"
         },
         {
-            "texto": "Shoppings voltam a funcionar em São Paulo e no Rio de Janeiro com regras...",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/shoppings-voltam-a-funcionar-em-sao-paulo-e-no-rio-de-janeiro-com-regras-de-distanciamento/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/BOZO-E-WEINTRAUB.jpg",
+            "texto": "A presidente do Todos Pela Educação comenta a saída de Abraham Weintraub do Ministério",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/a-presidente-do-todos-pela-educacao-comenta-a-saida-de-abraham-weintraub-do-ministerio/"
         },
         {
-            "texto": "Comissão especial será criada para analisar o pedido de impeachment contra Witzel",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/comissao-especial-sera-criada-para-analisar-o-pedido-de-impeachment-contra-witzel/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/fotoooooooooooooooooooooo.jpg",
+            "texto": "Dora Kramer repercute a saída de Abraham Weintraub do Ministério da Educação",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/dora-kramer-repercute-a-saida-de-abraham-weintraub-do-ministerio-da-educacao/"
         },
         {
-            "texto": "Bolsonaro decide recriar o Ministério das Comunicações e coloca indicado do Centrão",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/11/bolsonaro-decide-recriar-o-ministerio-das-comunicacoes-e-coloca-indicado-do-centrao/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2019/10/andreazza.jpg",
+            "texto": "Carlos Andreazza analisa a prisão de Queiroz em quatro tópicos",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/carlos-andreazza-analisa-a-prisao-de-queiroz-em-quatro-topicos/"
         },
         {
-            "texto": "Bolsonaro se manifesta sobre o ataque contra uma funcionária da TV Globo, no Rio...",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/10/bolsonaro-se-manifesta-sobre-o-ataque-contra-uma-funcionaria-da-tv-globo-no-rio-de-janeiro/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-18-at-16.08.22.jpeg",
+            "texto": "Abraham Weintraub deixa o Ministério da Educação",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/abraham-weintraub-deixa-o-ministerio-da-educacao/"
         },
         {
-            "texto": "Brasil registra 1.274 mortes por coronavírus em 24 horas; de ontem para hoje, segundo...",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/10/92990/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2018/06/monica_bergamo.jpg",
+            "texto": "Mônica Bergamo repercute as declarações do advogado de Fabrício Queiroz",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/monica-bergamo-repercute-as-declaracoes-do-advogado-de-fabricio-queiroz/"
         },
         {
-            "texto": "Com participação de veículos do Grupo Bandeirantes, Comprova inicia hoje a terceira fase, com...",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/10/com-participacao-de-veiculos-do-grupo-bandeirantes-comprova-inicia-hoje-a-terceira-fase-com-foco-nas-eleicoes-municipais-covid-19-e-politicas-publicas/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2017/10/fernandoschuler-1.png",
+            "texto": "Fernando Schuler comenta as consequências da prisão de Fabrício Queiroz no âmbito político",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/fernando-schuler-comenta-as-consequencias-da-prisao-de-fabricio-queiroz-no-ambito-politico/"
         },
         {
-            "texto": "Regina Duarte é exonerada do cargo de secretária especial de Cultura e diz “ufa”...",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/10/regina-duarte-e-exonerada-do-cargo-de-secretaria-especial-de-cultura-e-diz-ufa-nas-redes-sociais/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/03-1.jpg",
+            "texto": "Momento da ação da Polícia de SP para prender Fabrício Queiroz, ex-assessor de Flávio Bolsonaro",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/momento-da-acao-da-policia-de-sp-para-prender-fabricio-queiroz-ex-assessor-de-flavio-bolsonaro/"
         }
     ]
 }
