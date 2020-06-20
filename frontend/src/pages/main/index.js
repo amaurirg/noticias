@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import api from '../../services/api';
-
+import './styles.css';
 
 export default class Main extends Component {
     state = {
@@ -13,7 +13,7 @@ export default class Main extends Component {
     }
 
     loadRepos = async () => {
-        const url_params = "/api"
+        const url_params = "/uol"
         const response = await api.get(url_params);
         // console.log(response.data);
         const { imprensa, logo, atualizado_em, ...noticias } = response.data;
@@ -34,15 +34,33 @@ export default class Main extends Component {
     render() {
         const { dados_imprensa, dados_noticias } = this.state;
         return (
-            <div className="dados_imprensa">
-                <h1>{dados_imprensa.imprensa}</h1>
-                <img src={dados_imprensa.logo} alt="Logo" />
-                <p>Atualizado em {dados_imprensa.atualizado_em}hs</p>
-                <ul>
-                    {dados_noticias.map((noticia, contador) => (
-                        <li key={contador+1}>{noticia.texto}</li>
-                    ))}
-                </ul>
+            <div className="container">
+                <header>Notícias do Mundo</header>
+                    <div className="imprensa-esquerda">
+                        <img src={dados_imprensa.logo} alt="Logo" />
+                        <p>Atualizado em {dados_imprensa.atualizado_em}hs</p>
+                        <ul>
+                            {dados_noticias.map((noticia, contador) => (
+                                <div key={contador + 1} className="item">
+                                    <img className="img-noticia" src={noticia.img} alt="Imagem da notícia" />
+                                    <li><a href={noticia.link}>{noticia.texto}</a></li>
+                                </div>
+                            ))}
+                        </ul>
+                    </div>
+                    <div className="imprensa-direita">
+                        <img src={dados_imprensa.logo} alt="Logo" />
+                        <p>Atualizado em {dados_imprensa.atualizado_em}hs</p>
+                        <ul>
+                            {dados_noticias.map((noticia, contador) => (
+                                <div key={contador + 1} className="item">
+                                    <img className="img-noticia" src={noticia.img} alt="Imagem da notícia" />
+                                    <li><a href={noticia.link}>{noticia.texto}</a></li>
+                                </div>
+                            ))}
+                        </ul>
+                    </div>
+                <footer></footer>
             </div>
         )
     }

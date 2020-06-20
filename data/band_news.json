@@ -1,8 +1,48 @@
 {
     "imprensa": "Band News",
     "logo": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/logotipo-bandnewsfm_15anos.png",
-    "atualizado_em": "19/06/2020 01:10:51",
+    "atualizado_em": "19/06/2020 23:52:00",
     "noticias": [
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/corona.jpg",
+            "texto": "Brasil tem 1.206 novas mortes por covid-19 identificadas em 24 horas",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/brasil-tem-1-206-novas-mortes-por-covid-19-identificadas-em-24-horas/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/MARIO-FRIAS.jpg",
+            "texto": "Bolsonaro nomeia o ator Mário Frias para comandar Secretaria Especial de Cultura",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/bolsonaro-nomeia-o-ator-mario-frias-para-comandar-secretaria-especial-de-cultura/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/FLAVIO-BOLSONARO-02.jpg",
+            "texto": "Flávio Bolsonaro é intimado pelo MPF para depor sobre supostos vazamentos da Polícia Federal na Operação Furna da Onça",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/flavio-bolsonaro-e-intimado-pelo-mpf-para-depor-sobre-supostos-vazamentos-da-policia-federal-na-operacao-furna-da-onca/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/tOFFOLI-868x644-1.jpg",
+            "texto": "Plenário do STF mantém aberto o inquérito das Fake News",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/plenario-do-stf-mantem-aberto-o-inquerito-das-fake-news/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/protesto-1.jpg",
+            "texto": "Polícia ainda tenta identificar segundo PM suspeito de matar adolescente de 15 anos na Zona Sul de SP",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/policia-ainda-tenta-identificar-segundo-pm-suspeito-de-matar-adolescente-de-15-anos-na-zona-sul-de-sp/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/sao-paulo-vazia.jpg",
+            "texto": "Isolamento social em São Paulo tem diminuído ao longo dos meses",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/isolamento-social-em-sao-paulo-tem-diminuido-ao-longo-dos-meses/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/educacao_abraham_weintraub_comissao_de_educacao_cultura_e_esporte_do_senado1102209503_0.jpg",
+            "texto": "Colunistas da BandNews FM avaliam demissão de Abraham Weintraub como mais um sinal do enfraquecimento do Governo Jair Bolsonaro",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/colunistas-da-bandnews-fm-avaliam-demissao-de-abraham-weintraub-como-mais-um-sinal-do-enfraquecimento-do-governo-jair-bolsonaro/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/20200510133738543417i.jpg",
+            "texto": "Série Especial: Instituições já projetam uma retração de quase 7% na economia brasileira em 2020",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/serie-especial-instituicoes-ja-projetam-uma-retracao-de-quase-7-na-economia-brasileira-em-2020/"
+        },
         {
             "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/03/REINALDO.jpg",
             "texto": "Reinaldo Azevedo classifica que a passagem de Abraham Weintraub pelo Ministério da Educação é quase nula, sem apresentar qualquer legado em sua despedida",
@@ -12,46 +52,6 @@
             "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/toffoli.jpg",
             "texto": "Por 10 votos a 1, o Supremo Tribunal Federal decide manter o inquérito das fake news",
             "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/por-10-votos-a-1-o-supremo-tribunal-federal-decide-manter-o-inquerito-das-fake-news/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/5658_6CB5A4A43AB318D2.jpg",
-            "texto": "Ministério da Saúde contabiliza 1.238 novas mortes causadas pelo coronavírus em todo o País",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/ministerio-da-saude-contabiliza-1-238-novas-mortes-causadas-pelo-coronavirus-em-todo-o-pais/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/BOZO-E-WEINTRAUB.jpg",
-            "texto": "A presidente do Todos Pela Educação comenta a saída de Abraham Weintraub do Ministério",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/a-presidente-do-todos-pela-educacao-comenta-a-saida-de-abraham-weintraub-do-ministerio/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/fotoooooooooooooooooooooo.jpg",
-            "texto": "Dora Kramer repercute a saída de Abraham Weintraub do Ministério da Educação",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/dora-kramer-repercute-a-saida-de-abraham-weintraub-do-ministerio-da-educacao/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2019/10/andreazza.jpg",
-            "texto": "Carlos Andreazza analisa a prisão de Queiroz em quatro tópicos",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/carlos-andreazza-analisa-a-prisao-de-queiroz-em-quatro-topicos/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-18-at-16.08.22.jpeg",
-            "texto": "Abraham Weintraub deixa o Ministério da Educação",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/abraham-weintraub-deixa-o-ministerio-da-educacao/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2018/06/monica_bergamo.jpg",
-            "texto": "Mônica Bergamo repercute as declarações do advogado de Fabrício Queiroz",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/monica-bergamo-repercute-as-declaracoes-do-advogado-de-fabricio-queiroz/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2017/10/fernandoschuler-1.png",
-            "texto": "Fernando Schuler comenta as consequências da prisão de Fabrício Queiroz no âmbito político",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/fernando-schuler-comenta-as-consequencias-da-prisao-de-fabricio-queiroz-no-ambito-politico/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/03-1.jpg",
-            "texto": "Momento da ação da Polícia de SP para prender Fabrício Queiroz, ex-assessor de Flávio Bolsonaro",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/momento-da-acao-da-policia-de-sp-para-prender-fabricio-queiroz-ex-assessor-de-flavio-bolsonaro/"
         }
     ]
 }

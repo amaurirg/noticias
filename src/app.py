@@ -13,9 +13,20 @@ def index():
         empresa=arquivo["imprensa"], noticias=arquivo['noticias'])
 
 
-@app.route('/api')
-def api():
+@app.route('/uol')
+def uol():
     with open("../data/uol.json") as f:
+        arquivo = json.load(f)
+    r = make_response(arquivo)
+    r.headers.add("Access-Control-Allow-Origin", "*")
+#         response.header('X-Total-Count', count['count(*)']);
+
+    return r
+
+
+@app.route('/band_news')
+def band_news():
+    with open("../data/band_news.json") as f:
         arquivo = json.load(f)
     r = make_response(arquivo)
     r.headers.add("Access-Control-Allow-Origin", "*")

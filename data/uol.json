@@ -1,122 +1,132 @@
 {
     "imprensa": "Uol",
     "logo": "https://conteudo.imguol.com.br/c/home/layout/camaleao/web/logo.png",
-    "atualizado_em": "19/06/2020 01:10:50",
+    "atualizado_em": "19/06/2020 23:52:00",
     "noticias": [
         {
-            "img": "https://conteudo.imguol.com.br/c/entretenimento/9e/2020/06/01/hospital-medicos-1591044205755_v2_450x450.jpg",
-            "texto": "Tribunal de Contas identifica sobrepreço em contratos médicos no RJ",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/18/tribunal-de-contas-identifica-sobrepreco-em-contratos-medicos-no-rj.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/be/2020/05/15/teste-positivo-de-coronavirus-em-frente-a-bandeira-dos-estados-unidos-eua-1589592837631_v2_900x506.jpg",
+            "texto": "Coronavírus: EUA têm 9º dia consecutivo com menos de mil mortes",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/afp/2020/06/19/coronavirus-eua-tem-9-dia-consecutivo-com-menos-de-mil-mortes.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/hospital-de-campanha-de-sao-goncalo-1592518674229_v2_900x506.jpg",
-            "texto": "RJ: Hospital de Campanha de São Gonçalo é inaugurado com atraso",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/18/rj-hospital-de-campanha-de-sao-goncalo-e-inaugurado-com-atraso.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/a7/2019/09/23/o-governador-do-maranhao-flavio-dino-pcdob-em-entrevista-ao-programa-roda-viva-1569293874087_v2_900x506.png",
+            "texto": "Dino anuncia redução de leitos para covid após queda de mortes em São Luís",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/dino-anuncia-reducao-de-leitos-de-uti-apos-queda-da-letalidade-em-sao-luis.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/19/2020/06/04/testes-de-coronavirus-em-frente-a-bandeira-do-brasil-1591309207282_v2_450x600.jpg",
-            "texto": "Saúde diz que Brasil está \"a caminho da estabilização\" de casos de covid-19",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/18/saude-diz-que-brasil-esta-a-caminho-da-estabilizacao-de-casos-de-covid-19.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/58/2020/05/21/19mai2020---o-governador-do-rio-de-janeiro-wilson-witzel-psc-rj-na-apresentacao-do-novo-secretario-de-saude-fernando-ferri-1590091161627_v2_450x600.jpg",
+            "texto": "Em dia de recorde de casos, RJ prorroga medidas restritivas até 6 de julho",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/19/governo-do-rio-prorroga-medidas-restritivas-ate-6-de-julho.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/38/2020/05/26/26mai2020---sepultamento-de-vitima-de-coronavirus-no-cemiterio-sao-francisco-xavierem-caju-zona-norte-do-rio-de-janeiro-1590538285028_v2_900x506.jpg",
-            "texto": "Brasil supera 1.200 novas mortes pelo 3º dia; total é 47.869, diz consórcio",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/18/coronavirus-covid-mortes-casos-18-junho.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/f4/2020/06/19/pessoas-com-mascaras-de-protecao-contra-o-coronavirus-em-regiao-comercial-de-sao-paulo-sp-1592607767254_v2_900x506.jpg",
+            "texto": "Saúde: Aumento nos casos de covid-19 deve-se a problemas na exportação de dados",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/19/saude-aumento-nos-casos-de-covid-19-deve-se-a-problemas-na-exportacao-de-dados.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/esporte/76/2020/05/19/presidentes-de-vasco-alexandre-campello-e-flamengo-rodolfo-landim-com-o-presidente-jair-bolsonaro-e-um-de-seus-filhos-o-senador-flavio-bolsonaro-1589921406935_v2_900x506.jpg",
-            "texto": "Bolsonaro diz que MP sobre direitos de TV acaba com conflitos no futebol",
-            "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2020/06/18/bolsonaro-diz-que-mp-sobre-direitos-de-tv-acaba-com-conflitos-no-futebol.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/85/2020/06/19/11fev2020---a-deputada-estadual-janaina-paschoal-psl-sp-em-discurso-na-tribuna-da-alesp-assembleia-legislativa-de-sao-paulo-1592601942585_v2_450x450.jpg",
+            "texto": "Janaina: Caso Queiroz é 'chocante' e entorno de Bolsonaro lembra o do PT",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/janaina-caso-queiroz-e-chocante-e-entorno-de-bolsonaro-lembra-o-do-pt.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/a4/2020/02/27/jair-bolsonaro-acompanhado-dos-filhos-flavio-eduardo-e-carlos-1582792891395_v2_900x506.jpg",
-            "texto": "Clã Bolsonaro é alvo de investigações no STF, MP-RJ, Câmara e Senado",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/cla-bolsonaro-e-investigado-no-stf-justica-do-rj-e-no-congresso.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/f9/2020/06/19/19junho2020---o-presidente-jair-bolsonaro-sem-partido-conversa-com-aliados-pela-primeira-vez-desde-a-prisao-de-queiroz-1592611411830_v2_450x450.png",
+            "texto": "1 milhão de casos no país: 'Quase 90% não sentem quase nada', diz Bolsonaro",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/bolsonaro-fala-com-apoiadores-pela-1-vez-apos-prisao-de-queiroz.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/presidente-jair-bolsonaro-no-palacio-do-planalto-1592510597170_v2_900x506.jpg",
-            "texto": "Bolsonaro cita dificuldade em estender auxílio: \"Endividamento está enorme\"",
-            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/bolsonaro-auxilio-emergencial.htm"
+            "img": "https://conteudo.imguol.com.br/c/esporte/29/2020/06/19/presidente-jair-bolsonaro-sem-partido-com-o-broche-do-flamengo-1592562066763_v2_900x506.jpg",
+            "texto": "Bolsonaro diz estar \"democratizando o futebol\" com MP dos direitos de TV",
+            "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2020/06/19/bolsonaro-diz-estar-democratizando-o-futebol-com-mp-dos-direitos-de-tv.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/b6/2020/06/18/jair-bolsonaro-e-abraham-weintraub-1592512474183_v2_900x506.png",
-            "texto": "Saída de Weintraub da Educação gera chuva de memes nas redes",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/saida-de-weintraub-da-educacao-memes.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/f0/2020/05/20/flavio-e-jair-bolsonaro-1590005685465_v2_900x506.jpg",
+            "texto": "Flávio faz Bolsonaro aderir ao isolamento social",
+            "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2020/06/19/flavio-faz-bolsonaro-aderir-ao-isolamento-social.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/02/2020/06/18/heloisa-de-carvalho-filha-de-olavo-de-carvalho-posou-em-frente-a-casa-onde-queiroz-foi-encontrado-para-celebrar-a-prisao-do-ex-assessor-1592516762606_v2_450x450.jpg",
-            "texto": "Filha de Olavo vai à casa onde Queiroz foi encontrado: 'Sabia desde 2019'",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/filha-de-olavo-de-carvalho-posa-em-frente-a-casa-onde-queiroz-foi-achado.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/ca/2020/05/31/20052020---ala-voltada-para-pacientes-com-coronavirus-em-unidade-de-terapia-intensiva-uti-no-hospital-gilberto-novaes-em-manaus-am-1590951663488_v2_900x506.jpg",
+            "texto": "Brasil supera 1 milhão de casos e 49 mil mortes, revela consórcio",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/coronavirus-covid-mortes-casos-19-junho.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/18/presidente-jair-bolsonaro-no-palacio-do-planalto-1592510597170_v2_450x600.jpg",
-            "texto": "Foi uma 'prisão espetaculosa' e Queiroz não estava foragido, diz Bolsonaro",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/foi-feita-prisao-espetaculosa-diz-bolsonaro-sobre-fabricio-queiroz.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/7b/2020/06/18/geni-morava-num-acampamento-pro-intervencao-militar-e-morreu-de-covid-19-1592524225506_v2_900x506.jpg",
+            "texto": "Cozinheira de acampamento pró-intervenção militar em SP morre de covid-19",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/cozinheira-de-acampamento-pro-intervencao-militar-em-sp-morre-de-covid-19.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/86/2020/06/18/18jun2020---fabricio-queiroz-ex-assessor-de-flavio-bolsonaro-desembarca-de-helicoptero-no-rio-de-janeiro-acompanhado-de-policiais-apos-ser-preso-em-atibaia-sp-1592494161201_v2_900x506.jpg",
-            "texto": "\"Qual o motivo da prisão?\", questionou Queiroz em conversa com advogado",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/qual-o-motivo-da-prisao-questionou-queiroz-em-conversa-com-advogado.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/02/2020/06/18/heloisa-de-carvalho-filha-de-olavo-de-carvalho-posou-em-frente-a-casa-onde-queiroz-foi-encontrado-para-celebrar-a-prisao-do-ex-assessor-1592516762606_v2_450x600.jpg",
+            "texto": "Filha de Olavo descobriu paradeiro de Queiroz ao trabalhar em casa vizinha",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/filha-de-olavo-descobriu-paradeiro-de-queiroz-ao-trabalhar-em-casa-vizinha.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/12/2019/03/12/dinheiro-real-salario-minimo-reais-notas-1552409006787_v2_450x600.jpg",
-            "texto": "Quina acumula e edição de São João terá prêmio estimado em R$ 140 milhões",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/2020/06/18/quina-5298-resultado-do-sorteio.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/58/2020/05/21/19mai2020---o-governador-do-rio-de-janeiro-wilson-witzel-psc-rj-na-apresentacao-do-novo-secretario-de-saude-fernando-ferri-1590091161627_v2_450x600.jpg",
+            "texto": "Em dia de recorde de casos, RJ prorroga medidas restritivas até 6 de julho",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/19/governo-do-rio-prorroga-medidas-restritivas-ate-6-de-julho.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/12/2020/06/18/presidente-dos-eua-donald-trump-1592492588744_v2_900x506.jpg",
-            "texto": "Twitter coloca selo de 'mídia manipulada' em vídeo postado por Trump",
-            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/18/twitter-coloca-selo-de-midia-manipulada-em-video-postado-por-trump.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/fd/2016/07/15/notas-de-real-moeda-brasileira-reais-cedulas-1468609228331_v2_450x600.jpg",
+            "texto": "Lotofácil: prêmio de R$ 3,1 milhões sai para aposta de SC; veja números",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/2020/06/19/lotofacil-1982-resultado-do-sorteio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/4a/2020/06/12/presidente-dos-eua-donald-trump-em-dallas-1591967749741_v2_900x506.jpg",
-            "texto": "Trump sob ataque de várias frentes a cinco meses da eleição presidencial",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/18/trump-sob-ataque-de-varias-frentes-a-cinco-meses-da-eleicao-presidencial.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/fd/2016/07/15/notas-de-real-moeda-brasileira-reais-cedulas-1468609228331_v2_450x600.jpg",
+            "texto": "Lotofácil: veja os resultados do sorteio do concurso 1982",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/2020/06/19/lotofacil-1982-confira-os-numeros-do-sorteio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/25/2020/06/18/soldados-chines-e-indiano-em-um-dos-pontos-da-fronteira-1592517174737_v2_900x506.jpg",
-            "texto": "China x Índia: o que é a Linha de Controle Real, pela qual as duas potências asiáticas brigam há décadas",
-            "link": "https://noticias.uol.com.br/ultimas-noticias/bbc/2020/06/18/china-x-india-o-que-e-a-linha-de-controle-real-pela-qual-as-duas-potencias-brigam-ha-decadas.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/c1/2020/06/03/o-presidente-dos-estados-unidos-donald-trump-com-o-dedo-em-frente-ao-rosto-1591234546344_v2_450x450.jpg",
+            "texto": "Twitter exclui vídeo postado por Trump após categorizá-lo como 'manipulado'",
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/19/twitter-exclui-video-postado-por-trump-apos-categoriza-lo-como-manipulado.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/26/2020/06/15/sara-winter-segurando-dois-revolveres-1592224753825_v2_450x450.jpg",
-            "texto": "Ministra Cármen Lúcia rejeita habeas corpus e Sara Winter segue presa",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/ministra-carmen-lucia-rejeita-habeas-da-ativista-sara-winter.htm"
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/16/2020/04/16/o-principe-william-duque-de-cambridge-discursa-na-abertura-do-novo-hospital-nhs-nightingale-por-conferencia-de-video-1587065586565_v2_900x506.jpg",
+            "texto": "Reino Unido registra 173 novas mortes por covid-19 e chega a 42.461 vítimas",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/efe/2020/06/19/reino-unido-registra-novas-173-mortes-por-covid-19-e-chega-a-42461-vitimas.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/e5/2020/05/18/senador-flavio-bolsonaro-1589845554434_v2_450x450.jpg",
-            "texto": "Assessora de Flávio Bolsonaro se mudou 15 dias antes de operação, diz tio",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/assessora-de-flavio-bolsonaro-se-mudou-15-dias-antes-de-operacao-diz-tio.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/d1/2020/06/19/comprova-post-selecionou-e-tirou-de-contexto-trechos-de-entrevista-em-que-um-medico-senegales-elogia-a-cloroquina-1592603466932_v2_900x506.jpg",
+            "texto": "Uso da cloroquina não explica a situação da pandemia no Senegal",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/19/uso-da-cloroquina-nao-explica-a-situacao-da-pandemia-no-senegal.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/galeria/7c/2020/06/18/18jun2020---fabricio-queiroz-de-bone-ex-assessor-de-flavio-bolsonaro-chega-ao-iml-instituto-medico-legal-em-sao-paulo-apos-ser-preso-em-atibaia-66-km-da-capital-1592484050534_v2_300x225.jpg",
-            "texto": "De Atibaia a Bangu: o que se sabe da operação que prendeu Fabrício Queiroz",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/de-atibaia-a-bangu-o-que-se-sabe-da-operacao-que-prendeu-fabricio-queiroz.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/0e/2020/06/19/mandetta-para-afp-1592609610479_v2_900x506.jpg",
+            "texto": "Mandetta: 'Médicos não sabem fazer guerra, e generais não sabem fazer saúde'",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/19/mandetta-medicos-nao-sabem-fazer-guerra-e-generais-nao-sabem-fazer-saude.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/a4/2020/02/27/jair-bolsonaro-acompanhado-dos-filhos-flavio-eduardo-e-carlos-1582792891395_v2_900x506.jpg",
-            "texto": "Clã Bolsonaro é alvo de investigações no STF, MP-RJ, Câmara e Senado",
-            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/18/cla-bolsonaro-e-investigado-no-stf-justica-do-rj-e-no-congresso.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/e5/2020/05/18/senador-flavio-bolsonaro-1589845554434_v2_450x600.jpg",
+            "texto": "Antenas de celular indicam assessoras fantasmas de Flávio Bolsonaro, diz MP",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/mp-usou-antenas-de-celular-para-indicar-assessoras-fantasmas-de-flavio.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/15/auxilio-emergencial-caixa-1592245724022_v2_900x506.jpg",
-            "texto": "Auxílio emergencial: CGU identifica 317 mil pagamentos a servidores em maio",
-            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/cgu-identifica-mais-de-317-mil-pagamentos-do-auxilio-a-servidores-em-maio.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/9a/2020/06/18/flavio-bolsonaro-e-fabricio-queiroz-fazem-sinal-de-arminha-1592475684846_v2_900x506.jpg",
+            "texto": "Mensagens indicam influência de Queiroz sobre grupo de milicianos, diz MP",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/mp-mensagens-evidenciam-influencia-de-queiroz-sobre-grupo-de-milicanos.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/67/2020/05/18/dinheiro-moeda-real-1589822622769_450x450.jpg",
-            "texto": "Senado aprova suspensão de parcelas de empréstimo consignado",
-            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/senado-aprova-suspensao-de-parcelas-de-emprestimo-consignado.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/85/2020/06/19/11fev2020---a-deputada-estadual-janaina-paschoal-psl-sp-em-discurso-na-tribuna-da-alesp-assembleia-legislativa-de-sao-paulo-1592601942585_v2_450x450.jpg",
+            "texto": "Janaina: Caso Queiroz é 'chocante' e entorno de Bolsonaro lembra o do PT",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/19/janaina-caso-queiroz-e-chocante-e-entorno-de-bolsonaro-lembra-o-do-pt.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/ec/2020/01/20/fachada-do-bndes-no-rio-de-janeiro-1579565305356_v2_900x506.jpg",
-            "texto": "Garantia de crédito do BNDES para pequena empresa deve entrar em operação em julho",
-            "link": "https://economia.uol.com.br/noticias/reuters/2020/06/18/garantia-de-credito-do-bndes-para-pequena-empresa-deve-entrar-em-operacao-em-julho.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/e1/2020/06/19/11set2019---passageiros-embarcam-em-aviao-da-latam-no-aeroporto-internacional-de-padre-aldamiz-em-puerto-maldonado-na-espanha-1592611629438_v2_900x506.jpg",
+            "texto": "Latam ficará um dia sem voos domésticos pela primeira vez",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/19/latam-ficara-um-dia-sem-voos-domesticos-pela-primeira-vez.htm"
         },
         {
-            "img": "https://conteudo.imguol.com.br/c/noticias/6d/2020/05/25/o-ministro-da-educacao-abraham-weintraub-1590445460162_v2_900x506.jpg",
-            "texto": "Governo brasileiro oficializa indicação de Weintraub para o Banco Mundial",
-            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/18/governo-brasileiro-oficializa-indicacao-de-weintraub-para-o-banco-mundial.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/fc/2020/06/15/auxilio-emergencial-caixa-1592266093900_v2_900x506.jpg",
+            "texto": "Governo recupera quase R$ 40 mi de benefícios recebidos indevidamente",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/19/governo-recupera-quase-r-40-mi-de-beneficios-recebidos-indevidamente.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/b0/2020/06/18/fabricio-queiroz-sendo-conduzido-por-policiais-1592516568815_v2_300x225.jpg",
+            "texto": "Queiroz vai delatar Bolsonaro? O que acontece com os investimentos?",
+            "link": "https://economia.uol.com.br/colunas/econoweek/2020/06/19/queiroz-vai-delatar-bolsonaro-o-que-acontece-com-os-investimentos.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/98/2020/06/19/inss-previdencia-meu-inss-1592599974433_v2_900x506.jpg",
+            "texto": "INSS prorroga atendimento remoto até 10 de julho",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/06/19/inss-prorroga-atendimento-remoto-ate-10-de-julho.htm"
         },
         {
             "img": "https://conteudo.imguol.com.br/c/noticias/4f/2020/06/05/5jun2020---medica-ticyana-azambuja-fala-na-janela-do-seu-apartamento-sobre-as-agressoes-sofridas-por-frequentadores-de-uma-festa-clandestina-no-grajau-zona-norte-do-rio-de-janeiro-1591398930443_v2_300x225.jpg",
@@ -134,29 +144,19 @@
             "link": "https://noticias.uol.com.br/reportagens-especiais/coronavirus-brasil-supera-os-eua-em-novas-mortes-diarias/index.htm"
         },
         {
+            "img": "https://conteudo.imguol.com.br/c/noticias/d1/2020/06/19/comprova-post-selecionou-e-tirou-de-contexto-trechos-de-entrevista-em-que-um-medico-senegales-elogia-a-cloroquina-1592603466932_v2_900x506.jpg",
+            "texto": "Uso da cloroquina não explica a situação da pandemia no Senegal",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/19/uso-da-cloroquina-nao-explica-a-situacao-da-pandemia-no-senegal.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/17/2020/06/19/comprova-video-mostra-reportagem-da-revista-saude-e-vital-de-2003-que-trata-do-virus-que-causou-o-surto-da-sars-ha-17-anos--e-nao-do-sars-cov-2-1592602074220_v2_900x506.jpg",
+            "texto": "Vídeo engana ao afirmar que vírus da covid-19 existe desde 2003",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/19/video-engana-ao-afirmar-que-virus-da-covid-19-existe-desde-2003.htm"
+        },
+        {
             "img": "https://conteudo.imguol.com.br/c/noticias/60/2020/06/17/comprova-post-associa-tabela-a-cdc-mas-nenhuma-das-informacoes-que-aparece-na-tabela-esta-no-texto-publicado-pelo-orgao-de-saude-norte-americano-1592438025852_v2_900x506.jpg",
             "texto": "EUA: Tabela com risco de transmissão de covid não foi divulgada por governo",
             "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/17/eua-tabela-com-risco-de-transmissao-de-covid-nao-foi-divulgada-por-governo.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/a0/2020/06/17/comprova-video-distorce-declaracoes-do-governador-de-sao-paulo-joao-doria-em-entrevista-1592421471744_v2_900x506.jpg",
-            "texto": "Parceria para vacina contra covid não foi firmada por Doria no ano passado",
-            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/17/parceria-para-vacina-contra-covid-nao-foi-firmada-por-doria-no-ano-passado.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/42/2020/06/15/turista-usa-mascara-de-protecao-contra-o-coronavirus-no-aeroporto-internacional-de-los-angeles-nos-estados-unidos-1592262388036_v2_900x506.jpg",
-            "texto": "Os 70 dias do Comprova na checagem de informações duvidosas sobre covid-19",
-            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/16/os-70-dias-do-comprova-na-checagem-de-informacoes-duvidosas-sobre-a-covid.htm"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/blogs/f6/2020/06/18/weintraub-1592535396470_v2_956x500.jpg",
-            "texto": "Weintraub era o maior símbolo do desgoverno Bolsonaro 18/06/2020 23h53",
-            "link": "http://entendendobolsonaro.blogosfera.uol.com.br/2020/06/18/weintraub-era-o-maior-simbolo-do-desgoverno-bolsonaro/"
-        },
-        {
-            "img": "https://conteudo.imguol.com.br/c/noticias/12/2020/06/18/presidente-dos-eua-donald-trump-1592492588744_v2_900x506.jpg",
-            "texto": "Twitter coloca selo de 'mídia manipulada' em vídeo postado por Trump 18/06/2020 23h52",
-            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/18/twitter-coloca-selo-de-midia-manipulada-em-video-postado-por-trump.htm"
         }
     ]
 }
