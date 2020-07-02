@@ -1,57 +1,52 @@
 {
     "imprensa": "Band News",
     "logo": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/logotipo-bandnewsfm_15anos.png",
-    "atualizado_em": "19/06/2020 23:52:00",
+    "atualizado_em": "01/07/2020 13:28:51",
     "noticias": [
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/corona.jpg",
-            "texto": "Brasil tem 1.206 novas mortes por covid-19 identificadas em 24 horas",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/brasil-tem-1-206-novas-mortes-por-covid-19-identificadas-em-24-horas/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/03/frota-de-onibus-em-sp-sera-reduzida-a-partir-desta-segunda-feira.jpg",
+            "texto": "Transporte público de São Paulo tem crescimento de 20% no número de passageiros",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/transporte-publico-de-sao-paulo-tem-crescimento-de-20-no-numero-de-passageiros/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/MARIO-FRIAS.jpg",
-            "texto": "Bolsonaro nomeia o ator Mário Frias para comandar Secretaria Especial de Cultura",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/bolsonaro-nomeia-o-ator-mario-frias-para-comandar-secretaria-especial-de-cultura/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/AWGL5ZDNSNDK5DUW6KC66PNRIA.jpg",
+            "texto": "Curva de mortes por covid-19 em SP aponta para tendência de queda nas próximas semanas",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/curva-de-mortes-por-covid-19-em-sp-aponta-para-tendencia-de-queda-nas-proximas-semanas/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/FLAVIO-BOLSONARO-02.jpg",
-            "texto": "Flávio Bolsonaro é intimado pelo MPF para depor sobre supostos vazamentos da Polícia Federal na Operação Furna da Onça",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/flavio-bolsonaro-e-intimado-pelo-mpf-para-depor-sobre-supostos-vazamentos-da-policia-federal-na-operacao-furna-da-onca/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/Facebook.jpg",
+            "texto": "Boicote global de anunciantes ganha força contra o Facebook",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/boicote-global-de-anunciantes-ganha-forca-contra-o-facebook/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/tOFFOLI-868x644-1.jpg",
-            "texto": "Plenário do STF mantém aberto o inquérito das Fake News",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/plenario-do-stf-mantem-aberto-o-inquerito-das-fake-news/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/casamento-online11-1014x488-1.jpg",
+            "texto": "Os casamentos em tempos de pandemia",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/os-casamentos-em-tempos-de-pandemia/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/protesto-1.jpg",
-            "texto": "Polícia ainda tenta identificar segundo PM suspeito de matar adolescente de 15 anos na Zona Sul de SP",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/policia-ainda-tenta-identificar-segundo-pm-suspeito-de-matar-adolescente-de-15-anos-na-zona-sul-de-sp/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/agencia-trabalhador-vagas-emprego-temporario-1024x_00079088_0.jpg",
+            "texto": "Tem vaga: As empresas que estão contratando em meio a crise causada pelo coronavírus",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/tem-vaga-as-empresas-que-estao-contratando-em-meio-a-crise-causada-pelo-coronavirus-4/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/sao-paulo-vazia.jpg",
-            "texto": "Isolamento social em São Paulo tem diminuído ao longo dos meses",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/isolamento-social-em-sao-paulo-tem-diminuido-ao-longo-dos-meses/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/DESASTRE-1.png",
+            "texto": "“Ciclone bomba” deixa sete mortos no sul do país e causa estragos em várias cidades",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/ciclone-bomba-deixa-sete-mortos-no-sul-do-pais-e-causa-estragos-em-varias-cidades/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/educacao_abraham_weintraub_comissao_de_educacao_cultura_e_esporte_do_senado1102209503_0.jpg",
-            "texto": "Colunistas da BandNews FM avaliam demissão de Abraham Weintraub como mais um sinal do enfraquecimento do Governo Jair Bolsonaro",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/colunistas-da-bandnews-fm-avaliam-demissao-de-abraham-weintraub-como-mais-um-sinal-do-enfraquecimento-do-governo-jair-bolsonaro/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/b5ead3d0-1689-0138-7242-0a58a9feac2a-minified.jpg",
+            "texto": "MP do RJ cumpre 14 mandados de busca e apreensão na Operação Águas Claras",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/mp-do-rj-cumpre-14-mandados-de-busca-e-apreensao-na-operacao-aguas-claras/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/20200510133738543417i.jpg",
-            "texto": "Série Especial: Instituições já projetam uma retração de quase 7% na economia brasileira em 2020",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/19/serie-especial-instituicoes-ja-projetam-uma-retracao-de-quase-7-na-economia-brasileira-em-2020/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/DESASTRE.png",
+            "texto": "Quatro pessoas morrem devido um fenômeno meteorológico que atingiu a região Sul",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/30/quatro-pessoas-morrem-devido-um-fenomeno-meteorologico-que-atingiu-a-regiao-sul/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/03/REINALDO.jpg",
-            "texto": "Reinaldo Azevedo classifica que a passagem de Abraham Weintraub pelo Ministério da Educação é quase nula, sem apresentar qualquer legado em sua despedida",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/reinaldo-azevedo-classifica-que-a-passagem-de-abraham-weintraub-pelo-ministerio-da-educacao-e-quase-nula-sem-apresentar-qualquer-legado-em-sua-despedida/"
-        },
-        {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/toffoli.jpg",
-            "texto": "Por 10 votos a 1, o Supremo Tribunal Federal decide manter o inquérito das fake news",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/18/por-10-votos-a-1-o-supremo-tribunal-federal-decide-manter-o-inquerito-das-fake-news/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/Novel_Coronavirus_SARS-CoV-2.jpg",
+            "texto": "Ministério da Saúde contabiliza 1.280 novas mortes por coronavírus nas últimas 24 horas e o total de óbitos pela doença chega a 59.594",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/06/30/ministerio-da-saude-contabiliza-1-280-novas-mortes-por-coronavirus-nas-ultimas-24-horas-e-o-total-de-obitos-pela-doenca-chega-a-59-594/"
         }
     ]
 }
