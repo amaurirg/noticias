@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: burlywood;
+    grid-area: header;
+}
+
+
+.imprensa-left {
+    grid-area: esquerda;
+}
+
+.imprensa-right {
+    grid-area: direita;
+}
+
+footer {
+    background: darkmagenta;
+    grid-area: footer;
+}
+
+.img-noticia {
+    width: 20%;
+    height: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* grid-template-rows: 10vh 85vh 5vh; */
+    grid-template-areas: "header header" "esquerda direita" "footer footer";
+}
