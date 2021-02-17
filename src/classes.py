@@ -1,6 +1,7 @@
 import requests
 import bs4
 import json
+from datetime import datetime
 
 
 class Fonte:
@@ -45,6 +46,7 @@ class Uol(Fonte):
     def principais_noticias(self):
         noticiario = self.paginas_noticias()
         div_main = noticiario.find_all("div", class_="thumbnails-wrapper")
+        data_atual = datetime.now().strftime("%d/%m/%y - %H:%Mh")
         data = []
         for item in div_main:
             img = item.find("img")
@@ -55,7 +57,7 @@ class Uol(Fonte):
             texto = item.getText().strip()
             link = item.find("a").get("href")
             data.append({"img": img, "texto": texto, "link": link})
-        noticias = {'imprensa': self.nome, 'logo': self.logo, 'noticias': data}
+        noticias = {'imprensa': self.nome, 'logo': self.logo, 'atualizado_em': f'Atualizado em {data_atual}',  'noticias': data}
         self.write_json("../data/uol.json", noticias)
 
 

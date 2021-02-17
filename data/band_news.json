@@ -1,52 +1,56 @@
 {
     "imprensa": "Band News",
     "logo": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/05/logotipo-bandnewsfm_15anos.png",
-    "atualizado_em": "01/07/2020 13:28:51",
     "noticias": [
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/03/frota-de-onibus-em-sp-sera-reduzida-a-partir-desta-segunda-feira.jpg",
-            "texto": "Transporte público de São Paulo tem crescimento de 20% no número de passageiros",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/transporte-publico-de-sao-paulo-tem-crescimento-de-20-no-numero-de-passageiros/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/204538.jpg",
+            "texto": "Deputado Paulo Bengtson entrega parecer favorável a continuidade do processo de cassação do mandato de Flordelis",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/deputado-paulo-bengtson-entrega-parecer-favoravel-a-continuidade-do-processo-de-cassacao-do-mandato-de-flordelis/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/AWGL5ZDNSNDK5DUW6KC66PNRIA.jpg",
-            "texto": "Curva de mortes por covid-19 em SP aponta para tendência de queda nas próximas semanas",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/curva-de-mortes-por-covid-19-em-sp-aponta-para-tendencia-de-queda-nas-proximas-semanas/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/doria.jpg",
+            "texto": "Imunização contra Covid-19 em SP começa 15 de dezembro, diz João Doria",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/imunizacao-contra-covid-19-em-sp-comeca-15-de-dezembro-diz-joao-doria/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/Facebook.jpg",
-            "texto": "Boicote global de anunciantes ganha força contra o Facebook",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/boicote-global-de-anunciantes-ganha-forca-contra-o-facebook/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/crivea.jpg",
+            "texto": "RJ libera eventos culturais, música ao vivo e casas de show",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/rj-libera-eventos-culturais-musica-ao-vivo-e-casas-de-show/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/casamento-online11-1014x488-1.jpg",
-            "texto": "Os casamentos em tempos de pandemia",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/os-casamentos-em-tempos-de-pandemia/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/imagem_materia.jpg",
+            "texto": "Empresas registram impacto negativo menor pela pandemia na segunda quinzena de agosto",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/empresas-registram-impacto-negativo-menor-pela-pandemia-na-segunda-quinzena-de-agosto/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/agencia-trabalhador-vagas-emprego-temporario-1024x_00079088_0.jpg",
-            "texto": "Tem vaga: As empresas que estão contratando em meio a crise causada pelo coronavírus",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/tem-vaga-as-empresas-que-estao-contratando-em-meio-a-crise-causada-pelo-coronavirus-4/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/cnj.jpg",
+            "texto": "CNJ pretende gastar R$ 826 mil na compra de novos notebooks",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/cnj-pretende-gastar-r-826-mil-na-compra-de-novos-notebooks/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/DESASTRE-1.png",
-            "texto": "“Ciclone bomba” deixa sete mortos no sul do país e causa estragos em várias cidades",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/ciclone-bomba-deixa-sete-mortos-no-sul-do-pais-e-causa-estragos-em-varias-cidades/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/10/debate__1.png",
+            "texto": "BandNews FM transmite hoje primeiro debate da Band entre candidatos a prefeito",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/10/01/bandnews-fm-transmite-hoje-primeiro-debate-da-band-entre-candidatos-a-prefeito/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/07/b5ead3d0-1689-0138-7242-0a58a9feac2a-minified.jpg",
-            "texto": "MP do RJ cumpre 14 mandados de busca e apreensão na Operação Águas Claras",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/07/01/mp-do-rj-cumpre-14-mandados-de-busca-e-apreensao-na-operacao-aguas-claras/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/04/Coronavirus-COVID-19.jpg",
+            "texto": "Brasil tem 1.031 mortes por Covid-19 em 24 horas; total se aproxima de 144 mil",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/09/30/brasil-tem-1-031-mortes-por-covid-19-em-24-horas-total-se-aproxima-de-144-mil/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/DESASTRE.png",
-            "texto": "Quatro pessoas morrem devido um fenômeno meteorológico que atingiu a região Sul",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/30/quatro-pessoas-morrem-devido-um-fenomeno-meteorologico-que-atingiu-a-regiao-sul/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/09/Captura-de-tela-2020-09-30-172836.jpg",
+            "texto": "Colunista da BandNews FM, Rodrigo Haidar analisa a possível indicação de Kassio Marques",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/09/30/colunista-da-bandnews-fm-rodrigo-haidar-analisa-a-possivel-indicacao-de-kassio-marques/"
         },
         {
-            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/06/Novel_Coronavirus_SARS-CoV-2.jpg",
-            "texto": "Ministério da Saúde contabiliza 1.280 novas mortes por coronavírus nas últimas 24 horas e o total de óbitos pela doença chega a 59.594",
-            "link": "https://bandnewsfm.band.uol.com.br/2020/06/30/ministerio-da-saude-contabiliza-1-280-novas-mortes-por-coronavirus-nas-ultimas-24-horas-e-o-total-de-obitos-pela-doenca-chega-a-59-594/"
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/09/reproducao-1.jpg",
+            "texto": "Brasil gera quase 250 mil empregos em agosto e bate recorde",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/09/30/brasil-gera-quase-250-mil-empregos-em-agosto-e-bate-recorde/"
+        },
+        {
+            "img": "https://bandnewsfm.band.uol.com.br/wp-content/uploads/2020/09/Futura-Press.jpg",
+            "texto": "Frederick Wassef vira réu na Lava Jato",
+            "link": "https://bandnewsfm.band.uol.com.br/2020/09/30/frederick-wassef-vira-reu-na-lava-jato/"
         }
     ]
 }

@@ -1,36 +1,192 @@
 {
     "imprensa": "Uol",
     "logo": "https://conteudo.imguol.com.br/c/home/layout/camaleao/web/logo.png",
-    "atualizado_em": "01/07/2020 13:28:44",
+    "atualizado_em": "Atualizado em 01/10/20 - 13:03h",
     "noticias": [
         {
-            "id": 1,
-            "img": "https://conteudo.imguol.com.br/c/galeria/a9/2020/04/02/funcionarios-durante-entrerro-no-cemiterio-da-vila-formosa-na-zona-leste-de-sao-paulo-1585879645186_v2_900x506.jpg",
-            "texto": "SP vê platô na capital; mortes crescem 104,76% no interior em junho",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/07/01/sp-ve-plato-na-capital-mortes-crescem-10476-no-interior-em-junho.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/08/2020/10/01/centro-de-roma-esta-muito-mais-vazio-por-causa-da-pandemia-1601567493964_v2_900x506.jpg",
+            "texto": "Coronavírus na Itália: como país conseguiu conter segunda onda de contágios e se tornou exceção na Europa",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/bbc/2020/10/01/coronavirus-na-italia-como-pais-conseguiu-conter-a-segunda-onda-de-contagios-e-se-tornou-excecao-na-europa.htm"
         },
         {
-            "id": 2,
-            "img": "https://conteudo.imguol.com.br/c/noticias/0c/2020/06/30/ato-com-cruzes-para-lembrar-vitimas-do-novo-coronavirus-em-frente-ao-congresso-nacional-em-brasilia-1593555649228_v2_900x506.jpg",
-            "texto": "OMS: 60% dos casos de coronavírus no mundo surgiram somente no mês passado",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/07/01/oms-60-dos-casos-de-coronavirus-no-mundo-surgiram-somente-no-mes-passado.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/7c/2020/07/14/praias-de-miami-eua-voltaram-a-ficar-cheias-em-meio-a-pandemia-do-novo-coronavirus-1594744058209_v2_900x506.jpg",
+            "texto": "EUA têm aumento de casos de coronavírus em 27 Estados em setembro",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2020/10/01/eua-tem-aumento-de-casos-de-coronavirus-em-27-estados-em-setembro.htm"
         },
         {
-            "id": 3,
-            "img": "https://conteudo.imguol.com.br/c/noticias/32/2020/05/28/28mai2020---enterro-de-vitimas-de-coronavirus-no-cemiterio-do-caju-sao-francisco-xavier-no-rio-de-janeiro-1590703080744_v2_900x506.jpg",
-            "texto": "Brasil passa de 60 mil mortos por coronavírus, aponta consórcio de imprensa",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/07/01/brasil-passa-de-60-mil-mortos-por-coronavirus-aponta-consorcio-de-imprensa.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/3e/2020/06/12/20mai2020---primeiro-ministro-da-italia-giuseppe-conte-com-mascara-de-protecao-contra-o-novo-coronavirus-1591972130567_v2_900x506.jpg",
+            "texto": "Itália vai prorrogar estado de emergência por covid-19 até final de janeiro, diz premiê",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2020/10/01/italia-vai-prorrogar-estado-de-emergencia-por-covid-19-ate-final-de-janeiro-diz-premie.htm"
         },
         {
-            "id": 4,
-            "img": "https://conteudo.imguol.com.br/c/noticias/a3/2020/07/01/funcionarios-da-vigilancia-sanitaria-abordam-estabelecimento-que-nao-respeitava-normas-de-funcionamento-1593617826148_v2_900x506.jpg",
-            "texto": "Quem não pagar a multa por andar sem máscara em SP irá para a dívida ativa",
-            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/07/01/pessoas-que-nao-pagarem-multa-por-andar-sem-mascara-irao-para-divida-ativa.htm"
+            "img": "https://conteudo.imguol.com.br/c/noticias/71/2020/09/04/indigenas-guarani-kaiowa-e-terena-fazem-sozinhos-um-trabalho-que-deveria-ser-do-estado-1599254753027_v2_900x506.jpg",
+            "texto": "Bolsonaro edita MP sanitária que protege áreas indígenas do coronavírus",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/10/01/bolsonaro-edita-mp-sanitaria-que-protege-areas-indigenas-do-coronavirus.htm"
         },
         {
-            "id": 5,
-            "img": "https://conteudo.imguol.com.br/c/noticias/98/2020/05/27/11mai2020---o-ministro-do-meio-ambiente-ricardo-salles-durante-coletiva-de-imprensa-sobre-a-operacao-verde-brasil-1590609644706_v2_900x506.jpg",
-            "texto": "Salles anuncia projeto que prevê estrangeiros na preservação da Amazônia",
-            "link": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2020/07/01/salles-anuncia-projeto-que-preve-estrangeiros-na-preservacao-da-amazonia.htm"
-        }   ]
+            "img": "https://conteudo.imguol.com.br/c/noticias/b8/2020/10/01/o-presidente-jair-bolsonaro-gerou-aglomeracao-em-aeroporto-de-campina-grande-na-paraiba-1601557658169_v2_900x506.png",
+            "texto": "Nordestino parece que ganhou na Mega-Sena quando vê água, diz Bolsonaro",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/10/01/nordestino-parece-que-ganhou-na-mega-sena-quando-ve-agua-diz-bolsonaro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/5d/2020/09/29/o-ministro-do-meio-ambiente-ricardo-salles-em-audiencia-no-senado-07082019-1601421700438_v2_300x225.jpg",
+            "texto": "Depois de manguezais, que outras 'boiadas' Salles quer passar?",
+            "link": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/rfi/2020/10/01/depois-de-manguezais-que-outras-boiadas-salles-quer-passar.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/2f/2020/07/29/vice-presidente-hamilton-mourao-1596035448419_v2_900x506.jpg",
+            "texto": "'Não tem de onde tirar', diz Mourão sobre financiamento do Renda Cidadã",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/10/01/nao-tem-de-onde-tirar-diz-mourao-sobre-financiamento-do-renda-cidada.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/21/2020/09/29/o-presidente-jair-bolsonaro-sem-partido-e-o-ministro-paulo-guedes-economia-durante-anuncio-sobre-o-renda-cidada-1601427690438_v2_300x225.jpg",
+            "texto": "Guedes descarta uso de precatórios e Renda Cidadã volta à estaca zero",
+            "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2020/10/01/guedes-descarta-uso-de-precatorios-e-renda-cidada-volta-a-estaca-zero.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/1a/2020/10/01/01out2020---o-presidente-jair-bolsonaro-desembarca-no-aeroporto-de-campina-grande-na-paraiba-para-pegar-o-helicoptero-em-direcao-a-sao-jose-do-egito-pe-1601560763928_v2_900x506.jpg",
+            "texto": "Votem em prefeitos comprometidos com Deus, pátria e família, diz Bolsonaro",
+            "link": "https://noticias.uol.com.br/eleicoes/2020/10/01/votem-em-prefeitos-comprometidos-com-deus-patria-e-familia-diz-bolsonaro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/1a/2020/10/01/01out2020---o-presidente-jair-bolsonaro-desembarca-no-aeroporto-de-campina-grande-na-paraiba-para-pegar-o-helicoptero-em-direcao-a-sao-jose-do-egito-pe-1601560763928_v2_900x506.jpg",
+            "texto": "Bolsonaro pede a eleitores que escolham prefeitos com 'Deus no coração'",
+            "link": "https://noticias.uol.com.br/eleicoes/reuters/2020/10/01/bolsonaro-pede-a-eleitores-que-escolham-prefeitos-com-deus-no-coracao.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/a3/2020/09/25/o-vereador-carlos-bolsonaro-republicanos-rj-durante-evento-na-vila-militar-de-deodoro-no-rio-de-janeiro-1601044066578_v2_900x506.jpg",
+            "texto": "2 a cada 3 candidatos em SP e RJ mudaram de partido desde 2016, diz jornal",
+            "link": "https://noticias.uol.com.br/eleicoes/2020/10/01/jornal-2-a-cada-3-candidatos-em-sp-e-rj-mudaram-de-partido-desde-2016.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/ff/2020/09/11/filipe-sabara-candidato-do-novo-a-prefeito-de-sao-paulo-e-sua-vice-marina-helena-novo-1599825515184_v2_450x450.jpg",
+            "texto": "Ministro do TSE suspende decisão do Novo e libera campanha de Sabará em SP",
+            "link": "https://noticias.uol.com.br/eleicoes/2020/10/01/sabara-ministro-tse-campanha.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/parceiros/67/2020/09/22/fachada-do-hotel-maksoud-plaza-na-regiao-central-de-sao-paulo-1600821968085_v2_900x506.jpg",
+            "texto": "Maksoud luta contra ruína, e herdeiro paga contas com empresa de fachada",
+            "link": "https://noticias.uol.com.br/colunas/paulo-sampaio/2020/10/01/maksoudpaga-custas-de-recuperacao-judicial-com-verba-de-empresa-fantasma.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/59/2020/10/01/familia-de-osasco-sofre-golpe-ao-tentar-comprar-imovel-no-litoral-1601561771075_v2_450x450.jpg",
+            "texto": "Família leva golpe ao comprar casa na praia por R$ 65 mil em anúncio na web",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/10/01/familia-leva-golpe-ao-comprar-casa-na-praia-por-r-65-mil-em-anuncio-da-olx.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/home/1e/2020/09/30/quantia-em-dinheiro-e-joias-apreendidas-em-operacao-da-pf-contra-o-trafico-de-drogas-1601464724187_300x168.jpg",
+            "texto": "Empresas usadas pelo PCC giraram R$ 32 bi em 4 anos, diz Coaf",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/09/30/empresas-usadas-pelo-pcc-movimentaram-r-32-bilhoes-em-4-anos-diz-coaf.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/b8/2020/10/01/o-presidente-jair-bolsonaro-gerou-aglomeracao-em-aeroporto-de-campina-grande-na-paraiba-1601557658169_v2_900x506.png",
+            "texto": "Nordestino parece que ganhou na Mega-Sena quando vê água, diz Bolsonaro",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/10/01/nordestino-parece-que-ganhou-na-mega-sena-quando-ve-agua-diz-bolsonaro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/ae/2020/09/29/o-presidente-americano-donald-trump-participa-de-debate-com-joe-biden-em-cleveland-ohio-1601434021695_v2_900x506.jpg",
+            "texto": "Nem o FBI consegue convencer Trump a ser contra o racismo de supremacistas",
+            "link": "https://noticias.uol.com.br/colunas/kennedy-alencar/2020/10/01/na-reta-final-trump-adota-tatica-racista-e-intimidacao-do-eleitor-de-biden.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/08/2020/10/01/centro-de-roma-esta-muito-mais-vazio-por-causa-da-pandemia-1601567493964_v2_900x506.jpg",
+            "texto": "Coronavírus na Itália: como país conseguiu conter segunda onda de contágios e se tornou exceção na Europa",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/bbc/2020/10/01/coronavirus-na-italia-como-pais-conseguiu-conter-a-segunda-onda-de-contagios-e-se-tornou-excecao-na-europa.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/e8/2020/10/01/bronfman-disse-estar-profundamente-arrependida-mas-afirmou-nao-conseguir-depois-contra-o-lider-do-grupo-1601565821705_v2_900x506.jpg",
+            "texto": "A 'seita sexual' que levou herdeira de fortuna à prisão nos EUA",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/bbc/2020/10/01/a-seita-sexual-que-levou-herdeira-de-fortuna-a-prisao.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/70/2020/09/04/a-deputada-federal-flordelis-psd-rj-durante-evento-mais-mulheres-na-politica-em-marco-de-2019-1599226397653_v2_900x506.jpg",
+            "texto": "Corregedor entrega parecer favorável a processo contra Flordelis na Câmara",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/10/01/corregedor-entrega-parecer-favoravel-a-processo-contra-flordelis-na-camara.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/f8/2020/05/13/13mai2020---o-presidente-do-senado-davi-alcolumbre-dem-ap-durante-sessao-remota-do-congresso-nacional-para-deputados-1589396171172_v2_900x506.jpg",
+            "texto": "PGR arquiva reclamação contra Alcolumbre por travar 'impeachment' de ministros",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/10/01/pgr-arquiva-reclamacao-contra-alcolumbre-por-travar-impeachment-de-ministros.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/82/2020/06/10/alexandre-de-moraes-ministro-do-supremo-1591784102258_v2_300x225.jpg",
+            "texto": "Deputado com sigilo bancário quebrado quer acabar com inquérito das 'fake news'",
+            "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/10/01/deputado-com-sigilo-bancario-quebrado-quer-acabar-com-inquerito-das-fake-news.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/41/2020/06/19/19jun2020---o-ex-presidente-luiz-inacio-lula-da-silva-durante-transmissao-nas-redes-sociais-1592569712430_v2_900x506.jpg",
+            "texto": "Fachin recusa pedido de Lula para suspender processo do tríplex",
+            "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/10/01/fachin-recusa-pedido-de-lula-para-suspender-processo-do-triplex.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/2f/2020/07/29/vice-presidente-hamilton-mourao-1596035448419_v2_900x506.jpg",
+            "texto": "'Não tem de onde tirar', diz Mourão sobre financiamento do Renda Cidadã",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/10/01/nao-tem-de-onde-tirar-diz-mourao-sobre-financiamento-do-renda-cidada.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/98/2020/10/01/bonafont-anuncia-retirada-de-1-bilhao-de-garrafas-da-natureza-ate-2025-1601566203435_v2_450x450.png",
+            "texto": "Bonafont anuncia 1 bilhão de garrafas a menos na natureza até 2025",
+            "link": "https://economia.uol.com.br/noticias/redacao/2020/10/01/bonafont-anuncia-retirada-de-1-bilhao-de-garrafas-da-natureza-ate-2025.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/75/2020/10/01/grace-e-sua-empresa-tem-clientes-em-todo-o-mundo-1601564438288_v2_900x506.jpg",
+            "texto": "A mulher que criou um 'império' da hipnoterapia após largar o cigarro",
+            "link": "https://economia.uol.com.br/noticias/bbc/2020/10/01/grace-smith-a-mulher-que-criou-um-imperio-da-hipnoterapia-apos-largar-o-cigarro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/21/2020/09/29/o-presidente-jair-bolsonaro-sem-partido-e-o-ministro-paulo-guedes-economia-durante-anuncio-sobre-o-renda-cidada-1601427690438_v2_300x225.jpg",
+            "texto": "Guedes descarta uso de precatórios e Renda Cidadã volta à estaca zero",
+            "link": "https://economia.uol.com.br/noticias/estadao-conteudo/2020/10/01/guedes-descarta-uso-de-precatorios-e-renda-cidada-volta-a-estaca-zero.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/23/2020/08/31/especial-pipas-pipa-1598888491986_v2_300x225.jpg",
+            "texto": "UOL Notícias O céu da pandemia",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/especial-pipas.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/c1/2020/09/05/rj---praia-ipanema-movimentacao---geral---movimentacao-da-praia-de-ipanema--na-cidade-do-rio-de-janeiro-rj-neste-sabado-05-05092020---foto-gabriel-bastosfutura-pressfutura-pressestadao-conteudo-1599321052264_v2_300x225.jpg",
+            "texto": "UOL Notícias Qual o novo normal nas praias do Rio?",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/praias-cariocas-pos-quarentena.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/63/2020/09/03/especial-bairro-fantasma-de-maceio-1599165029750_v2_300x225.jpg",
+            "texto": "UOL Notícias Bairros que \"afundaram\" em Maceió devido à mineração podem virar floresta",
+            "link": "https://noticias.uol.com.br/reportagens-especiais/bairros-que-afundaram-em-maceio-devido-a-mineracao-podem-agora-virar-uma-floresta/index.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/69/2020/09/30/e-possivel-hackear-a-urna-eletronica-1601505171896_v2_900x506.jpg",
+            "texto": "Eleições 2020: Urna eletrônica pode ser hackeada?",
+            "link": "https://noticias.uol.com.br/confere/ultimas-noticias/2020/10/01/eleicoes-2020-a-urna-eletronica-pode-ser-hackeada.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/entretenimento/8d/2015/10/22/praia-de-porto-da-barra-1445545598360_v2_450x450.jpg",
+            "texto": "Anúncio de reabertura de orla foi feito um dia após homem implorar em praia",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/09/30/anuncio-de-reabertura-de-orla-foi-feita-um-dia-apos-homem-implorar-em-praia.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/2013/12/19/uiramuta-rr-na-reserva-indigena-de-raposaserra-do-sol-local-de-belezas-naturais-e-o-municipio-do-pais-onde-e-maior-o-peso-do-governo-na-economia-1387479518167_900x506.jpg",
+            "texto": "Demarcação de terra indígena em RR não tem relação com arroz mais caro",
+            "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2020/09/30/demarcacao-de-terra-indigena-em-rr-nao-tem-relacao-com-arroz-mais-caro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/b8/2020/10/01/o-presidente-jair-bolsonaro-gerou-aglomeracao-em-aeroporto-de-campina-grande-na-paraiba-1601557658169_v2_900x506.png",
+            "texto": "Nordestino parece que ganhou na Mega-Sena quando vê água, diz Bolsonaro 01/10/2020 12h57",
+            "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/10/01/nordestino-parece-que-ganhou-na-mega-sena-quando-ve-agua-diz-bolsonaro.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/ae/2020/09/29/o-presidente-americano-donald-trump-participa-de-debate-com-joe-biden-em-cleveland-ohio-1601434021695_v2_900x506.jpg",
+            "texto": "Nem o FBI consegue convencer Trump a ser contra o racismo de supremacistas 01/10/2020 12h57",
+            "link": "https://noticias.uol.com.br/colunas/kennedy-alencar/2020/10/01/na-reta-final-trump-adota-tatica-racista-e-intimidacao-do-eleitor-de-biden.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/08/2020/10/01/centro-de-roma-esta-muito-mais-vazio-por-causa-da-pandemia-1601567493964_v2_900x506.jpg",
+            "texto": "Coronavírus na Itália: como país conseguiu conter segunda onda de contágios e se tornou exceção na Europa 01/10/2020 12h54",
+            "link": "https://noticias.uol.com.br/saude/ultimas-noticias/bbc/2020/10/01/coronavirus-na-italia-como-pais-conseguiu-conter-a-segunda-onda-de-contagios-e-se-tornou-excecao-na-europa.htm"
+        },
+        {
+            "img": "https://conteudo.imguol.com.br/c/noticias/5d/2020/09/29/o-ministro-do-meio-ambiente-ricardo-salles-em-audiencia-no-senado-07082019-1601421700438_v2_300x225.jpg",
+            "texto": "Depois de manguezais, que outras 'boiadas' Salles quer passar? 01/10/2020 12h52",
+            "link": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/rfi/2020/10/01/depois-de-manguezais-que-outras-boiadas-salles-quer-passar.htm"
+        }
+    ]
 }
